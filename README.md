@@ -18,7 +18,7 @@
 
 # Formation à la Programmation Python pour Débutants
 
-## [Introduction](https://github.com/GiGiDKR/CodeFormation/edit/main/README.md#formation-%C3%A0-la-programmation-python-pour-d%C3%A9butants)
+## [Introduction](https://github.com/GiGiDKR/CodeFormation/blob/main/README.md#introduction-1)
 - Présentation de Python et de son utilisation dans le monde de la programmation.
 - Anecdotes sur l'origine et l'évolution de Python.
 
