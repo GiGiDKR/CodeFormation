@@ -1,7 +1,3 @@
-# Formation Code
-
-
-
 ![Windows](https://img.shields.io/badge/OS-Windows-blue)
 
 ![Static Badge](https://img.shields.io/badge/Windows-OS-blue?style=for-the-badge&logo=windows&labelColor=blue&color=gray)
@@ -22,16 +18,16 @@
 
 # Formation à la Programmation Python pour Débutants
 
-## Introduction
+## [Introduction](https://github.com/GiGiDKR/CodeFormation/edit/main/README.md#formation-%C3%A0-la-programmation-python-pour-d%C3%A9butants)
 - Présentation de Python et de son utilisation dans le monde de la programmation.
 - Anecdotes sur l'origine et l'évolution de Python.
 
-## [Chapitre 1: Premiers pas avec Python](https://github.com/GiGiDKR/CodeFormation#chapitre-1-premiers-pas-avec-python-1)
+## [Chapitre 1 : Premiers pas avec Python](https://github.com/GiGiDKR/CodeFormation#chapitre-1-premiers-pas-avec-python-1)
 - Installation de Python et de PyCharm.
 - Création du premier programme "Hello World".
 - Exploration de l'interface PyCharm.
 
-## Chapitre 2: Variables et Types de Données
+## Chapitre 2 : Variables et Types de Données
 - Déclaration et utilisation des variables.
 - Types de données: int, float, str, etc.
 - Exemples de manipulation de données.
@@ -97,7 +93,7 @@ Restez avec nous tout au long de cette formation pour découvrir le potentiel de
 
 *Astuce: N'hésitez pas à explorer des anecdotes sur l'histoire fascinante de Python pendant votre apprentissage!*
 
-## Chapitre 1: Premiers pas avec Python
+## Chapitre 1 : Premiers pas avec Python
 
 ### 1.1 Installation de Python et PyCharm
 
