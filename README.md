@@ -62,8 +62,8 @@
 - Conception, développement et tests.
 - Conseils pour la présentation du projet.
 
-## [Chapitre Supplémentaire : Utilisation de GitHub avec Python](https://github.com/GiGiDKR/CodeFormation/blob/main/README.md#chapitre-suppl%C3%A9mentaire--utilisation-de-github-avec-python)
-## [Chapitre Supplémentaire : Utilisation de Google Colab avec Python](https://github.com/GiGiDKR/CodeFormation/blob/main/README.md#chapitre-suppl%C3%A9mentaire--utilisation-de-google-colab-avec-python)
+## [Bonus : Utilisation de GitHub avec Python](https://github.com/GiGiDKR/CodeFormation/blob/main/README.md#chapitre-suppl%C3%A9mentaire--utilisation-de-github-avec-python)
+## [Bonus : Utilisation de Google Colab avec Python](https://github.com/GiGiDKR/CodeFormation/blob/main/README.md#chapitre-suppl%C3%A9mentaire--utilisation-de-google-colab-avec-python)
 ## [Ressources Complémentaires](https://github.com/GiGiDKR/CodeFormation/blob/main/README.md#ressources-compl%C3%A9mentaires)
 
 ## [Conclusion](https://github.com/GiGiDKR/CodeFormation/blob/main/README.md#conclusion-1)
@@ -3949,7 +3949,7 @@ Le versionnage du code est crucial pour le suivi des modifications, la collabora
 En suivant ces bonnes pratiques de versionnage, vous assurez une gestion efficace et traçable des modifications apportées à votre code au fil du temps.
 Adoptez ces conseils pour assurer une progression fluide et une application de gestion de tâches robuste et bien conçue.
 
-### Chapitre Supplémentaire : Utilisation de GitHub avec Python
+### Bonus : Utilisation de GitHub avec Python
 
 #### 1. **Création d'un Dépôt sur GitHub :**
    - Commencez par créer un nouveau dépôt sur GitHub pour votre projet Python.
@@ -4046,7 +4046,7 @@ Adoptez ces conseils pour assurer une progression fluide et une application de g
 En suivant ces étapes, vous serez capable de gérer efficacement votre code Python avec Git et GitHub, facilitant la collaboration, le suivi des modifications et la gestion des versions de votre projet.
 
 
-### Chapitre Supplémentaire : Utilisation de Google Colab avec Python
+### Bonus : Utilisation de Google Colab avec Python
 
 #### 1. **Introduction à Google Colab :**
    - Google Colab est une plateforme gratuite basée sur le cloud qui permet d'écrire et d'exécuter du code Python dans un environnement de notebook Jupyter. Accédez à [Google Colab](https://colab.research.google.com/) et connectez-vous avec votre compte Google.
