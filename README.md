@@ -4128,6 +4128,7 @@ En suivant ces étapes, vous serez capable de gérer efficacement votre code Pyt
 
 En utilisant Google Colab, vous bénéficiez d'un environnement de développement gratuit, basé sur le cloud, avec un accès facile à des ressources telles que des GPU et des TPUs. C'est une excellente plateforme pour l'apprentissage, l'expérimentation et la collaboration en Python.
 
+## Ressources complémentaires
 
 Pour apprendre la programmation Python en français, voici quelques ressources complémentaires :
 
