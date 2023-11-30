@@ -279,7 +279,7 @@ N'hésitez pas à expérimenter avec d'autres variations de ce programme pour vo
 
 *Conseil: La pratique régulière est la clé pour renforcer vos compétences en programmation.*
 
-## Chapitre 2: Variables et Types de Données
+## Chapitre 2 : Variables et Types de Données
 
 ### 2.1 Déclaration et Utilisation des Variables
 - Comprendre le concept des variables en Python.
