@@ -62,8 +62,8 @@
 - Conception, développement et tests.
 - Conseils pour la présentation du projet.
 
-## [Bonus : Utilisation de GitHub avec Python](https://github.com/GiGiDKR/CodeFormation/blob/main/README.md#chapitre-suppl%C3%A9mentaire--utilisation-de-github-avec-python)
-## [Bonus : Utilisation de Google Colab avec Python](https://github.com/GiGiDKR/CodeFormation/blob/main/README.md#chapitre-suppl%C3%A9mentaire--utilisation-de-google-colab-avec-python)
+## [Bonus : Utilisation de GitHub avec Python](https://github.com/GiGiDKR/CodeFormation/blob/main/README.md#bonus--utilisation-de-github-avec-python-1)
+## [Bonus : Utilisation de Google Colab avec Python](https://github.com/GiGiDKR/CodeFormation/blob/main/README.md#bonus--utilisation-de-google-colab-avec-python)
 ## [Ressources Complémentaires](https://github.com/GiGiDKR/CodeFormation/blob/main/README.md#ressources-compl%C3%A9mentaires)
 
 ## [Conclusion](https://github.com/GiGiDKR/CodeFormation/blob/main/README.md#conclusion-1)
