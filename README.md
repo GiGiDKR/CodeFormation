@@ -32,7 +32,7 @@
 - Types de données: int, float, str, etc.
 - Exemples de manipulation de données.
 
-## Chapitre 3 : Structures de Contrôle
+## [Chapitre 3 : Structures de Contrôle](https://github.com/GiGiDKR/CodeFormation/blob/main/README.md#chapitre-3--structures-de-contr%C3%B4le-1)
 - Les structures conditionnelles (if, else, elif).
 - Les boucles (for, while).
 - Exercices pratiques pour renforcer la compréhension.
