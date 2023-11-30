@@ -18,7 +18,7 @@
 
 # Formation à la Programmation Python pour Débutants
 
-## [Introduction](https://github.com/GiGiDKR/CodeFormation/blob/main/README.md#introduction-1)
+## [Introduction](https://github.com/GiGiDKR/CodeFormation#introduction-1)
 - Présentation de Python et de son utilisation dans le monde de la programmation.
 - Anecdotes sur l'origine et l'évolution de Python.
 
@@ -27,7 +27,7 @@
 - Création du premier programme "Hello World".
 - Exploration de l'interface PyCharm.
 
-## [Chapitre 2 : Variables et Types de Données](https://github.com/GiGiDKR/CodeFormation/edit/main/README.md#chapitre-2--variables-et-types-de-donn%C3%A9es)
+## [Chapitre 2 : Variables et Types de Données](https://github.com/GiGiDKR/CodeFormation#chapitre-2--variables-et-types-de-donn%C3%A9es)
 - Déclaration et utilisation des variables.
 - Types de données: int, float, str, etc.
 - Exemples de manipulation de données.
