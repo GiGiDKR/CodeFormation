@@ -12,11 +12,11 @@
 [![Open in Windows](https://img.shields.io/badge/Open-in%20Windows-blue)](link_to_your_windows_environment)
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com)
-![Static Badge](https://img.shields.io/badge/Google-Colab-orange?logo=google-colab)
+[![Google Colab](https://img.shields.io/badge/Google-Colab-orange?logo=google-colab)](https://colab.research.google.com/drive/18khV5kGSwNe11E_hLcUrIMqaG8ov1JoI)
 
 [![Google Drive](https://img.shields.io/badge/Google%20Drive-Backup-brightgreen)](https://drive.google.com/)
 
-# Formation à la Programmation Python pour Débutants
+# Formation à la programmation Python
 
 ## [Introduction](https://github.com/GiGiDKR/CodeFormation#introduction-1)
 - Présentation de Python et de son utilisation dans le monde de la programmation.
@@ -32,32 +32,32 @@
 - Types de données: int, float, str, etc.
 - Exemples de manipulation de données.
 
-## Chapitre 3: Structures de Contrôle
+## Chapitre 3 : Structures de Contrôle
 - Les structures conditionnelles (if, else, elif).
 - Les boucles (for, while).
 - Exercices pratiques pour renforcer la compréhension.
 
-## Chapitre 4: Fonctions
+## Chapitre 4 : Fonctions
 - Définition et utilisation de fonctions.
 - Paramètres et valeurs de retour.
 - Exemples de fonctions intégrées à Python.
 
-## Chapitre 5: Listes et Dictionnaires
+## Chapitre 5 : Listes et Dictionnaires
 - Manipulation de listes.
 - Utilisation des dictionnaires.
 - Exercices pratiques sur les structures de données.
 
-## Chapitre 6: Fichiers et Gestion d'Erreurs
+## Chapitre 6 : Fichiers et Gestion d'Erreurs
 - Lecture et écriture de fichiers.
 - Gestion des erreurs avec try/except.
 - Astuces pour la gestion efficace des fichiers.
 
-## Chapitre 7: Modules et Bibliothèques
+## Chapitre 7 : Modules et Bibliothèques
 - Importation et utilisation de modules.
 - Présentation de bibliothèques populaires (ex: NumPy, pandas).
 - Intégration d'une bibliothèque dans un projet.
 
-## Chapitre 8: Projet Final
+## Chapitre 8 : Projet Final
 - Application des concepts appris dans un projet concret.
 - Conception, développement et tests.
 - Conseils pour la présentation du projet.
@@ -506,7 +506,7 @@ Adoptez ces conseils pour améliorer la qualité et la lisibilité de votre code
 
 *Conseil: La clarté du code est souvent aussi importante que son fonctionnement.*
 
-## Chapitre 3: Structures de Contrôle
+## Chapitre 3 : Structures de Contrôle
 
 ### 3.1 Les Structures Conditionnelles (if, else, elif)
 
@@ -682,7 +682,7 @@ Adoptez ces conseils pour écrire des structures de contrôle claires et efficac
 
 *Astuce: La simplicité et la lisibilité sont des objectifs essentiels lors de l'écriture de code en Python.*
 
-## Chapitre 4: Fonctions
+## Chapitre 4 : Fonctions
 
 ### 4.1 Introduction aux Fonctions
 
@@ -867,7 +867,7 @@ Explorez ces exercices pour renforcer votre compréhension des fonctions en Pyth
 
 *Conseil: Décomposez chaque problème en étapes plus petites pour les résoudre plus facilement.*
 
-## Chapitre 5: Listes et Dictionnaires
+## Chapitre 5 : Listes et Dictionnaires
 
 ### 5.1 Listes
 
@@ -1219,7 +1219,7 @@ Adoptez ces conseils pour écrire un code plus lisible, efficace et éviter des 
 
 *Astuce: La compréhension et l'efficacité du code sont cruciales, surtout avec des structures de données fréquemment utilisées.*
 
-## Chapitre 6: Fichiers et Gestion d'Erreurs
+## Chapitre 6 : Fichiers et Gestion d'Erreurs
 
 ### 6.1 Lecture et Écriture de Fichiers
 
@@ -1524,7 +1524,7 @@ Adoptez ces conseils pour assurer une gestion robuste des fichiers et des erreur
 
 *Astuce: La clarté et la précision du code contribuent à un débogage efficace.*
 
-## Chapitre 7: Modules et Bibliothèques
+## Chapitre 7 : Modules et Bibliothèques
 
 ### 7.1 Introduction aux Modules
 
@@ -1798,7 +1798,7 @@ Adoptez ces conseils pour une utilisation efficace des modules et bibliothèques
 
 *Astuce: La clarté, la modularité et la documentation sont essentielles pour faciliter la maintenance et la collaboration.*
 
-## Chapitre 8: Projet Final
+## Chapitre 8 : Projet Final
 
 ### 8.1 Objectif du Projet
 
