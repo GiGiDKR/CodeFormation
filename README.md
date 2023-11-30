@@ -37,32 +37,36 @@
 - Les boucles (for, while).
 - Exercices pratiques pour renforcer la compréhension.
 
-## Chapitre 4 : Fonctions
+## [Chapitre 4 : Fonctions](https://github.com/GiGiDKR/CodeFormation/blob/main/README.md#chapitre-4--fonctions-1)
 - Définition et utilisation de fonctions.
 - Paramètres et valeurs de retour.
 - Exemples de fonctions intégrées à Python.
 
-## Chapitre 5 : Listes et Dictionnaires
+## [Chapitre 5 : Listes et Dictionnaires](https://github.com/GiGiDKR/CodeFormation/blob/main/README.md#chapitre-5--listes-et-dictionnaires-1)
 - Manipulation de listes.
 - Utilisation des dictionnaires.
 - Exercices pratiques sur les structures de données.
 
-## Chapitre 6 : Fichiers et Gestion d'Erreurs
+## [Chapitre 6 : Fichiers et Gestion d'Erreurs](https://github.com/GiGiDKR/CodeFormation/blob/main/README.md#chapitre-6--fichiers-et-gestion-derreurs-1)
 - Lecture et écriture de fichiers.
 - Gestion des erreurs avec try/except.
 - Astuces pour la gestion efficace des fichiers.
 
-## Chapitre 7 : Modules et Bibliothèques
+## [Chapitre 7 : Modules et Bibliothèques](https://github.com/GiGiDKR/CodeFormation/blob/main/README.md#chapitre-7--modules-et-biblioth%C3%A8ques-1)
 - Importation et utilisation de modules.
 - Présentation de bibliothèques populaires (ex: NumPy, pandas).
 - Intégration d'une bibliothèque dans un projet.
 
-## Chapitre 8 : Projet Final
+## [Chapitre 8 : Projet Final](https://github.com/GiGiDKR/CodeFormation/blob/main/README.md#chapitre-8--projet-final-1)
 - Application des concepts appris dans un projet concret.
 - Conception, développement et tests.
 - Conseils pour la présentation du projet.
 
-## Conclusion
+## [Chapitre Supplémentaire : Utilisation de GitHub avec Python](https://github.com/GiGiDKR/CodeFormation/blob/main/README.md#chapitre-suppl%C3%A9mentaire--utilisation-de-github-avec-python)
+## [Chapitre Supplémentaire : Utilisation de Google Colab avec Python](https://github.com/GiGiDKR/CodeFormation/blob/main/README.md#chapitre-suppl%C3%A9mentaire--utilisation-de-google-colab-avec-python)
+## [Ressources Complémentaires](https://github.com/GiGiDKR/CodeFormation/blob/main/README.md#ressources-compl%C3%A9mentaires)
+
+## [Conclusion](https://github.com/GiGiDKR/CodeFormation/blob/main/README.md#conclusion-1)
 - Récapitulatif des concepts clés.
 - Conseils pour la poursuite de l'apprentissage.
 - Ressources pour approfondir ses connaissances en Python.
