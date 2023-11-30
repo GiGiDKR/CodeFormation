@@ -22,7 +22,7 @@
 - Présentation de Python et de son utilisation dans le monde de la programmation.
 - Anecdotes sur l'origine et l'évolution de Python.
 
-## [Chapitre 1 : Premiers pas avec Python](https://github.com/GiGiDKR/CodeFormation#chapitre-1-premiers-pas-avec-python-1)
+## [Chapitre 1 : Premiers pas avec Python](https://github.com/GiGiDKR/CodeFormation#chapitre-1--premiers-pas-avec-python-1)
 - Installation de Python et de PyCharm.
 - Création du premier programme "Hello World".
 - Exploration de l'interface PyCharm.
