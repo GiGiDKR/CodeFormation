@@ -27,7 +27,7 @@
 - Création du premier programme "Hello World".
 - Exploration de l'interface PyCharm.
 
-## Chapitre 2 : Variables et Types de Données
+## [Chapitre 2 : Variables et Types de Données](https://github.com/GiGiDKR/CodeFormation/edit/main/README.md#chapitre-2--variables-et-types-de-donn%C3%A9es)
 - Déclaration et utilisation des variables.
 - Types de données: int, float, str, etc.
 - Exemples de manipulation de données.
@@ -278,3 +278,33 @@ print("Bonjour, " + prenom + "!")
 N'hésitez pas à expérimenter avec d'autres variations de ce programme pour voir comment vous pouvez l'améliorer. Cet exercice vise à vous donner une expérience pratique avec les concepts que nous avons abordés jusqu'à présent.
 
 *Conseil: La pratique régulière est la clé pour renforcer vos compétences en programmation.*
+
+## Chapitre 2: Variables et Types de Données
+
+### 2.1 Déclaration et Utilisation des Variables
+- Comprendre le concept des variables en Python.
+- Déclaration de variables et règles de nommage.
+- Exemples pratiques pour illustrer l'utilisation des variables.
+
+### 2.2 Types de Données Fondamentaux
+- Exploration des types de données de base: int, float, str, bool.
+- Conversion entre types de données.
+- Scénarios d'utilisation appropriés pour chaque type.
+
+### 2.3 Structures de Données Composées
+- Introduction aux listes et tuples.
+- Opérations courantes sur les listes.
+- Utilisation de tuples pour des données immuables.
+
+### 2.4 Exercices Pratiques
+- Exercices pour appliquer la déclaration de variables et l'utilisation des types de données.
+- Manipulation de listes et tuples dans des scénarios concrets.
+
+### 2.5 Conseils et Astuces
+- Bonnes pratiques pour la gestion des variables.
+- Astuces pour choisir le bon type de données.
+- Utilisation efficace des structures de données en Python.
+
+---
+
+*Conseil: La compréhension approfondie des variables et des types de données est essentielle pour progresser dans la programmation Python.*
