@@ -1,22 +1,4 @@
-![Windows](https://img.shields.io/badge/OS-Windows-blue)
-
-![Static Badge](https://img.shields.io/badge/Windows-OS-blue?style=for-the-badge&logo=windows&labelColor=blue&color=gray)
-![Static Badge](https://img.shields.io/badge/Windows-OS-blue?logo=windows&labelColor=blue&color=gray)
-
-![Static Badge](https://img.shields.io/badge/Linux-OS-orange?style=for-the-badge&logo=linux&labelColor=orange&color=gray)
-![Static Badge](https://img.shields.io/badge/Linux-OS-orange?logo=linux&labelColor=orange&color=gray)
-![Static Badge](https://img.shields.io/badge/Linux-OS-orange?style=flat-square&logo=linux&labelColor=orange&color=gray)
-![Static Badge](https://img.shields.io/badge/Linux-OS-orange?style=plastic&logo=linux&labelColor=orange&color=gray)
-
-
-[![Open in Windows](https://img.shields.io/badge/Open-in%20Windows-blue)](link_to_your_windows_environment)
-
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com)
-[![Google Colab](https://img.shields.io/badge/Google-Colab-orange?logo=google-colab)](https://colab.research.google.com/drive/18khV5kGSwNe11E_hLcUrIMqaG8ov1JoI)
-
-[![Google Drive](https://img.shields.io/badge/Google%20Drive-Backup-brightgreen)](https://drive.google.com/)
-
-# Formation à la programmation Python
+# FORMATION A LA PROGRAMMATION PYTHON
 
 ## [Introduction](https://github.com/GiGiDKR/CodeFormation#introduction-1)
 - Présentation de Python et de son utilisation dans le monde de la programmation.
@@ -62,9 +44,11 @@
 - Conception, développement et tests.
 - Conseils pour la présentation du projet.
 
-## [Bonus : Utilisation de GitHub avec Python](https://github.com/GiGiDKR/CodeFormation/blob/main/README.md#bonus--utilisation-de-github-avec-python-1)
-## [Bonus : Utilisation de Google Colab avec Python](https://github.com/GiGiDKR/CodeFormation/blob/main/README.md#bonus--utilisation-de-google-colab-avec-python-1)
-## [Ressources Complémentaires](https://github.com/GiGiDKR/CodeFormation/blob/main/README.md#ressources-compl%C3%A9mentaires)
+
+### - [Bonus : Utilisation de GitHub avec Python](https://github.com/GiGiDKR/CodeFormation/blob/main/README.md#bonus--utilisation-de-github-avec-python-1)
+### - [Bonus : Utilisation de Google Colab avec Python](https://github.com/GiGiDKR/CodeFormation/blob/main/README.md#bonus--utilisation-de-google-colab-avec-python-1)
+### - [Ressources Complémentaires](https://github.com/GiGiDKR/CodeFormation/blob/main/README.md#ressources-compl%C3%A9mentaires)
+
 
 ## [Conclusion](https://github.com/GiGiDKR/CodeFormation/blob/main/README.md#conclusion-1)
 - Récapitulatif des concepts clés.
@@ -73,7 +57,11 @@
 
 ---
 
-*Note: La formation sera ponctuée d'anecdotes sur Python et de conseils pour guider les apprenants tout au long de leur parcours.*
+*Note : Les documents et le lien vers le Google Colab pour s'exercer en ligne sont disponibles si dessous :*
+
+[![Google Drive](https://img.shields.io/badge/Google%20Drive-Docs-brightgreen?logo=google-drive)](https://drive.google.com/drive/folders/1FywC9l5VbqBNZFrxhXbxuQQl6NniXzad?usp=sharing)
+
+[![Google Colab](https://img.shields.io/badge/Google%20Colab-Open-orange?logo=google-colab)](https://colab.research.google.com/drive/18khV5kGSwNe11E_hLcUrIMqaG8ov1JoI)
 
 
 # Introduction
@@ -103,10 +91,12 @@ Restez avec nous tout au long de cette formation pour découvrir le potentiel de
 
 ### Installation de Python
 
-#### Windows
+#### ![Static Badge](https://img.shields.io/badge/Windows-OS-blue?logo=windows&labelColor=blue&color=gray)
 1. **Téléchargement de l'Exécutable:**
    - Rendez-vous sur le site officiel de Python.
-   - Téléchargez la dernière version de l'exécutable pour Windows.
+   - Téléchargez la dernière version de l'exécutable pour Windows :
+   
+     [![Python](https://img.shields.io/badge/python-3670A0?&logo=python&logoColor=ffdd54)](https://www.python.org/downloads/)
    
 2. **Installation:**
    - Lancez l'installateur téléchargé.
@@ -116,18 +106,7 @@ Restez avec nous tout au long de cette formation pour découvrir le potentiel de
    - Vérifiez que les variables d'environnement ont été configurées automatiquement.
    - Testez l'installation en ouvrant une invite de commande et en tapant `python --version`.
 
-#### macOS
-1. **Utilisation de Homebrew (Optionnel):**
-   - Si vous utilisez Homebrew, vous pouvez installer Python avec la commande `brew install python`.
-
-2. **Installation depuis le Site Officiel:**
-   - Téléchargez le package d'installation depuis le site Python.
-   - Exécutez le package pour installer Python.
-
-3. **Vérification de l'Installation:**
-   - Ouvrez le terminal et tapez `python3 --version` pour vérifier la version installée.
-
-#### Linux
+#### ![Static Badge](https://img.shields.io/badge/Linux-OS-orange?logo=linux&labelColor=orange&color=gray)
 1. **Utilisation du Gestionnaire de Paquets:**
    - Utilisez le gestionnaire de paquets de votre distribution (ex: apt, yum) pour installer Python.
 
@@ -143,7 +122,9 @@ Restez avec nous tout au long de cette formation pour découvrir le potentiel de
 
 #### Téléchargement de l'Installateur
 1. Rendez-vous sur le site officiel de JetBrains.
-2. Téléchargez la version Community ou Professional de PyCharm, en fonction de vos besoins.
+2. Téléchargez la version Community ou Professional de PyCharm, en fonction de vos besoins :
+  
+   [![PyCharm](https://img.shields.io/badge/pycharm-143?logo=pycharm&logoColor=black&color=black&labelColor=green)](https://www.jetbrains.com/fr-fr/pycharm/)
 
 #### Installation du Logiciel
 3. Exécutez l'installateur téléchargé.
@@ -166,11 +147,14 @@ Restez avec nous tout au long de cette formation pour découvrir le potentiel de
 ### Vérification de l'Installation
 
 #### Python
-1. **Windows:**
-   - Ouvrez l'invite de commande et tapez `python --version`.
+1. **Windows :**
+   - Ouvrez l'invite de commande et tapez `python --version` :
+
+      ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
+     
    - Assurez-vous que la version de Python installée est affichée.
 
-2. **macOS / Linux:**
+2. **Linux :**
    - Ouvrez le terminal et tapez `python3 --version`.
    - Vérifiez que la version de Python installée est correcte.
 
@@ -178,15 +162,15 @@ Restez avec nous tout au long de cette formation pour découvrir le potentiel de
 3. **Lancement de PyCharm:**
    - Double-cliquez sur l'icône de PyCharm ou utilisez la commande d'exécution appropriée.
 
-4. **Configuration de l'Interpréteur Python:**
+4. **Configuration de l'Interpréteur Python :**
    - Dans PyCharm, allez dans "File" > "Settings" > "Project: [Nom du Projet]" > "Python Interpreter".
    - Assurez-vous que l'interpréteur Python correct est sélectionné.
 
-5. **Création d'un Projet de Test:**
+5. **Création d'un Projet de Test :**
    - Créez un nouveau projet de test dans PyCharm.
    - Ajoutez un fichier Python et écrivez un simple script "Hello World".
 
-6. **Exécution du Script:**
+6. **Exécution du Script :**
    - Cliquez sur le bouton d'exécution pour exécuter le script.
    - Vérifiez que "Hello World" s'affiche dans la console de PyCharm.
 
@@ -198,26 +182,26 @@ Restez avec nous tout au long de cette formation pour découvrir le potentiel de
 
 Bienvenue dans le monde de la programmation Python! Dans cette section, nous allons créer votre premier programme, le fameux "Hello World". Suivez ces étapes simples:
 
-#### Étape 1: Ouvrir PyCharm
+#### Étape 1 : Ouvrir PyCharm
 Lancez PyCharm depuis votre menu d'applications ou le bureau.
 
-#### Étape 2: Créer un Nouveau Projet
+#### Étape 2 : Créer un Nouveau Projet
 1. Cliquez sur "Create New Project".
 2. Donnez un nom à votre projet, choisissez l'emplacement, et cliquez sur "Create".
 
-#### Étape 3: Créer un Fichier Python
+#### Étape 3 : Créer un Fichier Python
 1. Dans l'interface de PyCharm, cliquez avec le bouton droit sur le nom de votre projet.
 2. Sélectionnez "New" > "Python File".
 3. Donnez un nom au fichier, par exemple, "hello_world.py", et cliquez sur "OK".
 
-#### Étape 4: Écrire le Code
+#### Étape 4 : Écrire le Code
 Dans le fichier "hello_world.py", écrivez le code suivant:
 
 ```python
 print("Hello World!")
 ```
 
-#### Étape 5: Exécuter le Programme
+#### Étape 5 : Exécuter le Programme
 1. Cliquez avec le bouton droit sur le code.
 2. Sélectionnez "Run 'hello_world'".
 3. Vérifiez la console de PyCharm pour voir le message "Hello World!".
@@ -328,25 +312,25 @@ Explorez ces exemples pour comprendre la déclaration et l'utilisation efficace 
 #### Exploration des Types de Données
 En Python, les types de données fondamentaux incluent:
 
-1. **Entier (int):**
+1. **Entier (int) :**
    - Représente les nombres entiers.
    ```python
    age = 25
    ```
 
-2. **Nombre à Virgule Flottante (float):**
+2. **Nombre à Virgule Flottante (float) :**
    - Représente les nombres décimaux.
    ```python
    prix = 19.99
    ```
 
-3. **Chaîne de Caractères (str):**
+3. **Chaîne de Caractères (str) :**
    - Représente du texte.
    ```python
    nom = "Alice"
    ```
 
-4. **Booléen (bool):**
+4. **Booléen (bool) :**
    - Représente les valeurs de vérité (True/False).
    ```python
    est_etudiant = True
@@ -377,11 +361,11 @@ Les listes et les tuples sont des structures de données permettant de stocker p
 
 #### Listes
 - Liste mutable (modifiable).
-- Déclaration:
+- Déclaration :
   ```python
   fruits = ["pomme", "banane", "orange"]
   ```
-- Accès et modification des éléments:
+- Accès et modification des éléments :
   ```python
   premier_fruit = fruits[0]
   fruits.append("raisin")
@@ -389,19 +373,19 @@ Les listes et les tuples sont des structures de données permettant de stocker p
 
 #### Tuples
 - Tuple immuable (non modifiable).
-- Déclaration:
+- Déclaration :
   ```python
   coordonnees = (3, 5)
   ```
-- Accès aux éléments:
+- Accès aux éléments :
   ```python
   x, y = coordonnees
   ```
 
 #### Opérations Courantes sur les Listes
-- Ajout d'éléments: `append()`, `insert()`.
-- Suppression d'éléments: `remove()`, `pop()`.
-- Longueur de la liste: `len()`.
+- Ajout d'éléments : `append()`, `insert()`.
+- Suppression d'éléments : `remove()`, `pop()`.
+- Longueur de la liste : `len()`.
 
 #### Exemples Pratiques
 ```python
@@ -424,21 +408,21 @@ Explorez ces structures de données pour comprendre comment elles peuvent être 
 
 ### 2.4 Exercices Pratiques
 
-#### Exercice 1: Manipulation de Listes
+#### Exercice 1 : Manipulation de Listes
 1. Créez une liste vide appelée `nombres`.
 2. Ajoutez les nombres de 1 à 5 à la liste.
 3. Affichez la liste.
 
-#### Exercice 2: Utilisation de Tuples
+#### Exercice 2 : Utilisation de Tuples
 1. Créez un tuple appelé `dimensions` avec la largeur et la hauteur de 10 et 20.
 2. Affichez les valeurs du tuple.
 
-#### Exercice 3: Modification de Listes
+#### Exercice 3 : Modification de Listes
 1. Modifiez la liste `nombres` en remplaçant le deuxième élément par 8.
 2. Ajoutez le nombre 12 à la fin de la liste.
 3. Affichez la liste modifiée.
 
-#### Exercice 4: Longueur de Liste
+#### Exercice 4 : Longueur de Liste
 1. Utilisez la fonction `len()` pour afficher la longueur de la liste `nombres`.
 
 #### Objectif
@@ -453,7 +437,7 @@ Explorez ces exercices pour renforcer votre compréhension des structures de don
 ### 2.5 Conseils et Astuces
 
 #### Bonnes Pratiques pour la Gestion des Variables
-1. **Noms Descriptifs:**
+1. **Noms Descriptifs :**
    - Utilisez des noms de variables descriptifs pour rendre votre code lisible.
    ```python
    # Mauvais exemple
@@ -463,7 +447,7 @@ Explorez ces exercices pour renforcer votre compréhension des structures de don
    age_utilisateur = 25
    ```
 
-2. **Évitez les Noms Ambigus:**
+2. **Évitez les Noms Ambigus :**
    - Choisissez des noms de variables qui ne prêtent pas à confusion.
    ```python
    # Mauvais exemple
@@ -474,7 +458,7 @@ Explorez ces exercices pour renforcer votre compréhension des structures de don
    ```
 
 #### Astuces pour le Choix du Type de Données
-1. **Choix Approprié:**
+1. **Choix Approprié :**
    - Sélectionnez le type de données en fonction du contexte d'utilisation.
    ```python
    quantite_articles = 10  # Utilisez int pour les quantités entières.
@@ -482,7 +466,7 @@ Explorez ces exercices pour renforcer votre compréhension des structures de don
    nom_utilisateur = "Alice"  # Utilisez str pour les noms et textes.
    ```
 
-2. **Conversion de Types:**
+2. **Conversion de Types :**
    - Utilisez les fonctions `int()`, `float()`, `str()` pour convertir entre les types de données si nécessaire.
    ```python
    age_str = "25"
@@ -490,7 +474,7 @@ Explorez ces exercices pour renforcer votre compréhension des structures de don
    ```
 
 #### Utilisation Efficace des Structures de Données
-1. **Listes vs Tuples:**
+1. **Listes vs Tuples :**
    - Utilisez des listes lorsque la mutabilité est nécessaire, sinon, optez pour des tuples pour plus de sécurité.
    ```python
    jours_semaine = ["Lundi", "Mardi", "Mercredi"]  # Liste
@@ -609,19 +593,19 @@ Explorez ces exemples pour comprendre comment utiliser les boucles `for` et `whi
 
 ### 3.3 Exercices Pratiques sur les Structures de Contrôle
 
-#### Exercice 1: Structure Conditionnelle
+#### Exercice 1 : Structure Conditionnelle
 1. Demandez à l'utilisateur de saisir un nombre.
 2. Utilisez une structure conditionnelle pour afficher "Le nombre est positif", "Le nombre est négatif", ou "Le nombre est nul".
 
-#### Exercice 2: Boucle for
+#### Exercice 2 : Boucle for
 1. Créez une liste de mots.
 2. Utilisez une boucle `for` pour afficher chaque mot en majuscules.
 
-#### Exercice 3: Boucle while
+#### Exercice 3 : Boucle while
 1. Demandez à l'utilisateur de deviner un nombre entre 1 et 10.
 2. Utilisez une boucle `while` pour continuer à demander jusqu'à ce que l'utilisateur devine correctement.
 
-#### Exercice 4: Combinaison de Structures
+#### Exercice 4 : Combinaison de Structures
 1. Créez une liste de nombres.
 2. Utilisez une boucle `for` pour itérer sur la liste.
 3. Utilisez une structure conditionnelle pour afficher "Pair" si le nombre est pair, et "Impair" s'il est impair.
@@ -637,7 +621,7 @@ Explorez ces exercices pour renforcer votre compréhension des structures de con
 ### 3.4 Conseils et Astuces pour les Structures de Contrôle
 
 #### Bonnes Pratiques pour les Structures Conditionnelles
-1. **Clarté des Conditions:**
+1. **Clarté des Conditions :**
    - Utilisez des conditions claires et compréhensibles.
    ```python
    # Mauvais exemple
@@ -647,7 +631,7 @@ Explorez ces exercices pour renforcer votre compréhension des structures de con
    if 0 < x < 10:
    ```
 
-2. **Évitez les Nids Excessifs:**
+2. **Évitez les Nids Excessifs :**
    - Évitez les nids excessifs de structures conditionnelles pour améliorer la lisibilité.
    ```python
    # Mauvais exemple
@@ -662,10 +646,10 @@ Explorez ces exercices pour renforcer votre compréhension des structures de con
    ```
 
 #### Astuces pour les Boucles
-1. **Évitez les Boucles Infinies:**
+1. **Évitez les Boucles Infinies :**
    - Assurez-vous que les conditions de sortie sont atteignables dans les boucles `while` pour éviter des boucles infinies.
 
-2. **Optimisation de la Boucle `for`:**
+2. **Optimisation de la Boucle `for` :**
    - Utilisez `enumerate()` pour obtenir à la fois l'indice et la valeur lors de l'itération sur une séquence.
    ```python
    fruits = ["pomme", "banane", "orange"]
@@ -673,7 +657,7 @@ Explorez ces exercices pour renforcer votre compréhension des structures de con
        print(f"Index: {index}, Fruit: {fruit}")
    ```
 
-3. **Boucle `for` avec `else`:**
+3. **Boucle `for` avec `else` :**
    - Utilisez la clause `else` avec une boucle `for` pour exécuter du code après une boucle normalement.
    ```python
    for i in range(5):
@@ -694,7 +678,7 @@ Adoptez ces conseils pour écrire des structures de contrôle claires et efficac
 En programmation, une fonction est un bloc de code réutilisable qui effectue une tâche spécifique. Les fonctions permettent d'organiser le code de manière modulaire.
 
 #### Déclaration de Fonctions
-La déclaration d'une fonction se fait avec le mot-clé `def`. Voici un exemple simple:
+La déclaration d'une fonction se fait avec le mot-clé `def`. Voici un exemple simple :
 
 ```python
 def saluer_utilisateur():
@@ -702,17 +686,17 @@ def saluer_utilisateur():
 ```
 
 #### Appel de Fonctions
-Pour exécuter le code à l'intérieur d'une fonction, vous devez l'appeler:
+Pour exécuter le code à l'intérieur d'une fonction, vous devez l'appeler :
 
 ```python
 saluer_utilisateur()
 ```
 
 #### Avantages des Fonctions
-1. **Réutilisabilité:**
+1. **Réutilisabilité :**
    - Vous pouvez appeler la même fonction plusieurs fois dans votre programme.
   
-2. **Modularité:**
+2. **Modularité :**
    - Les fonctions permettent de diviser le code en blocs logiques, facilitant la maintenance et la compréhension du code.
 
 #### Exemple Pratique
@@ -728,7 +712,7 @@ additionner(3, 7)
 
 Explorez ces concepts pour comprendre comment les fonctions sont utilisées pour organiser le code en Python.
 
-*Astuce: Choisissez des noms de fonctions descriptifs pour indiquer clairement leur fonction.*
+*Astuce : Choisissez des noms de fonctions descriptifs pour indiquer clairement leur fonction.*
 
 ### 4.2 Paramètres et Arguments
 
@@ -803,7 +787,7 @@ print(f"Quotient: {q}, Reste: {r}")
 
 Explorez ces exemples pour comprendre comment les fonctions peuvent renvoyer des résultats et comment utiliser ces résultats dans votre programme.
 
-*Astuce: Utilisez les valeurs de retour pour récupérer des résultats à partir de fonctions.*
+*Astuce : Utilisez les valeurs de retour pour récupérer des résultats à partir de fonctions.*
 
 ### 4.4 Portée des Variables
 
@@ -842,7 +826,7 @@ print(nom_local)
 
 Explorez ces concepts pour comprendre comment la portée des variables fonctionne en Python.
 
-*Astuce: Évitez les conflits de noms en utilisant des variables locales lorsque cela est approprié.*
+*Astuce : Évitez les conflits de noms en utilisant des variables locales lorsque cela est approprié.*
 
 ### 4.5 Exercices Pratiques sur les Fonctions
 
@@ -869,7 +853,7 @@ Explorez ces concepts pour comprendre comment la portée des variables fonctionn
 
 Explorez ces exercices pour renforcer votre compréhension des fonctions en Python.
 
-*Conseil: Décomposez chaque problème en étapes plus petites pour les résoudre plus facilement.*
+*Conseil : Décomposez chaque problème en étapes plus petites pour les résoudre plus facilement.*
 
 ## Chapitre 5 : Listes et Dictionnaires
 
@@ -915,7 +899,7 @@ print(fruits)
 
 Explorez ces concepts pour comprendre comment les listes peuvent être utilisées pour stocker et manipuler des données en Python.
 
-*Astuce: Les listes sont flexibles et polyvalentes, adaptées à une variété de scénarios.*
+*Astuce : Les listes sont flexibles et polyvalentes, adaptées à une variété de scénarios.*
 
 ### 5.2 Dictionnaires
 
@@ -961,7 +945,7 @@ print(informations_utilisateur)
 
 Explorez ces concepts pour comprendre comment les dictionnaires peuvent être utilisés pour représenter des données de manière structurée en Python.
 
-*Astuce: Les dictionnaires offrent une flexibilité pour organiser des données avec des relations clé-valeur.*
+*Astuce : Les dictionnaires offrent une flexibilité pour organiser des données avec des relations clé-valeur.*
 
 ### 5.3 Listes de Listes et Dictionnaires de Dictionnaires
 
@@ -1004,25 +988,25 @@ age_alice = utilisateurs["Alice"]["âge"]
 
 Explorez ces concepts pour comprendre comment créer des structures de données plus complexes en imbriquant des listes et des dictionnaires.
 
-*Astuce: L'imbrication de structures permet de modéliser des données de manière hiérarchique et organisée.*
+*Astuce : L'imbrication de structures permet de modéliser des données de manière hiérarchique et organisée.*
 
 ### 5.4 Exercices Pratiques sur Listes et Dictionnaires
 
-#### Exercice 1: Liste de Listes
+#### Exercice 1 : Liste de Listes
 1. Créez une liste de listes représentant une grille 3x3 de nombres.
 2. Accédez à certains éléments de la grille et affichez-les.
 
-#### Exercice 2: Dictionnaire de Dictionnaires
+#### Exercice 2 : Dictionnaire de Dictionnaires
 1. Créez un dictionnaire de dictionnaires représentant des informations sur des livres.
 2. Chaque livre devrait avoir un titre, un auteur et une année de publication.
 3. Accédez et affichez l'auteur d'un livre spécifique.
 
-#### Exercice 3: Liste de Dictionnaires
+#### Exercice 3 : Liste de Dictionnaires
 1. Créez une liste de dictionnaires représentant des étudiants.
 2. Chaque dictionnaire devrait contenir des informations telles que le nom, l'âge et la spécialisation.
 3. Ajoutez un nouvel étudiant à la liste et affichez la liste mise à jour.
 
-#### Exercice 4: Manipulation de Données Imbriquées
+#### Exercice 4 : Manipulation de Données Imbriquées
 1. Créez une structure de données imbriquée pour représenter une boutique en ligne.
 2. Utilisez des listes et des dictionnaires pour modéliser des informations sur les produits, les clients et les commandes.
 3. Effectuez des opérations telles que l'ajout d'un nouveau produit, la création d'une commande, etc.
@@ -1033,11 +1017,11 @@ Explorez ces concepts pour comprendre comment créer des structures de données 
 
 Explorez ces exercices pour renforcer votre compréhension de la manipulation de données structurées en Python.
 
-*Conseil: Pensez de manière logique et décomposez le problème en étapes plus petites.*
+*Conseil : Pensez de manière logique et décomposez le problème en étapes plus petites.*
 
-#### Exercice 1: Liste de Listes
+#### Exercice 1 : Liste de Listes
 
-1. **Création de la Grille 3x3:**
+1. **Création de la Grille 3x3 :**
    - Créez une liste de listes représentant une grille 3x3 de nombres.
    - Remplissez la grille avec des valeurs de votre choix.
 
@@ -1050,7 +1034,7 @@ grille = [
 ]
 ```
 
-2. **Accès à Certains Éléments:**
+2. **Accès à Certains Éléments :**
    - Accédez à certains éléments de la grille (par exemple, le coin supérieur droit et le centre).
    - Affichez ces éléments.
 
@@ -1066,10 +1050,10 @@ print(f"Centre: {centre}")
 
 Explorez cet exercice pour pratiquer l'accès aux éléments dans une liste de listes en Python.
 
-*Astuce: Utilisez les indices pour accéder aux éléments souhaités.*
-#### Exercice 2: Dictionnaire de Dictionnaires
+*Astuce : Utilisez les indices pour accéder aux éléments souhaités.*
+#### Exercice 2 : Dictionnaire de Dictionnaires
 
-1. **Création du Dictionnaire de Dictionnaires:**
+1. **Création du Dictionnaire de Dictionnaires :**
    - Créez un dictionnaire de dictionnaires représentant des informations sur des livres.
    - Chaque livre devrait avoir un titre, un auteur et une année de publication.
 
@@ -1082,7 +1066,7 @@ bibliotheque = {
 }
 ```
 
-2. **Accès et Affichage de l'Auteur:**
+2. **Accès et Affichage de l'Auteur :**
    - Accédez et affichez l'auteur d'un livre spécifique (par exemple, "Livre2").
 
 ```python
@@ -1095,10 +1079,10 @@ print(f"L'auteur du Livre2 est {auteur_livre2}")
 
 Explorez cet exercice pour pratiquer la création, l'accès et l'affichage d'informations dans un dictionnaire de dictionnaires en Python.
 
-*Astuce: Utilisez les clés pour accéder aux valeurs souhaitées.*
-#### Exercice 3: Liste de Dictionnaires
+*Astuce : Utilisez les clés pour accéder aux valeurs souhaitées.*
+#### Exercice 3 : Liste de Dictionnaires
 
-1. **Création de la Liste de Dictionnaires:**
+1. **Création de la Liste de Dictionnaires :**
    - Créez une liste de dictionnaires représentant des informations sur des étudiants.
    - Chaque dictionnaire devrait contenir des informations telles que le nom, l'âge et la spécialisation.
 
@@ -1111,7 +1095,7 @@ etudiants = [
 ]
 ```
 
-2. **Ajout d'un Nouvel Étudiant et Affichage:**
+2. **Ajout d'un Nouvel Étudiant et Affichage :**
    - Ajoutez un nouvel étudiant à la liste avec des informations de votre choix.
    - Affichez la liste mise à jour.
 
@@ -1126,10 +1110,10 @@ print(etudiants)
 
 Explorez cet exercice pour pratiquer la création, l'ajout et l'affichage d'informations dans une liste de dictionnaires en Python.
 
-*Astuce: Utilisez la méthode `append()` pour ajouter des éléments à une liste.*
+*Astuce : Utilisez la méthode `append()` pour ajouter des éléments à une liste.*
 #### Exercice 4: Manipulation de Données Imbriquées
 
-1. **Création de la Structure de Données Imbriquée:**
+1. **Création de la Structure de Données Imbriquée :**
    - Créez une structure de données imbriquée pour représenter une boutique en ligne.
    - Utilisez des listes et des dictionnaires pour modéliser des informations sur les produits, les clients et les commandes.
 
@@ -1152,7 +1136,7 @@ boutique_en_ligne = {
 }
 ```
 
-2. **Opérations sur la Boutique en Ligne:**
+2. **Opérations sur la Boutique en Ligne :**
    - Effectuez des opérations telles que l'ajout d'un nouveau produit, la création d'une commande, etc.
 
 ```python
@@ -1170,18 +1154,18 @@ print(boutique_en_ligne)
 
 Explorez cet exercice pour pratiquer la manipulation de données dans une structure imbriquée en Python.
 
-*Astuce: Utilisez les indices et les clés pour accéder et manipuler les données.*
+*Astuce : Utilisez les indices et les clés pour accéder et manipuler les données.*
 
 ### 5.5 Conseils et Astuces pour Listes et Dictionnaires
 
 #### Bonnes Pratiques pour les Listes
-1. **Utilisation de List Comprehensions:**
+1. **Utilisation de List Comprehensions :**
    - Simplifiez la création de listes avec les list comprehensions.
    ```python
    carres = [x**2 for x in range(1, 6)]
    ```
 
-2. **Évitez les Mutations en Boucle:**
+2. **Évitez les Mutations en Boucle :**
    - Évitez de modifier une liste pendant que vous la parcourez.
    ```python
    # Mauvais exemple
@@ -1191,28 +1175,28 @@ Explorez cet exercice pour pratiquer la manipulation de données dans une struct
    ```
 
 #### Astuces pour les Dictionnaires
-1. **Vérification de l'Existence d'une Clé:**
+1. **Vérification de l'Existence d'une Clé :**
    - Utilisez `in` pour vérifier si une clé existe dans un dictionnaire.
    ```python
    if "cle" in mon_dictionnaire:
        # Faire quelque chose
    ```
 
-2. **Utilisation de la Méthode `get()`:**
+2. **Utilisation de la Méthode `get()` :**
    - Utilisez `get()` pour obtenir la valeur d'une clé avec une valeur par défaut.
    ```python
    valeur = mon_dictionnaire.get("cle", "Valeur par défaut")
    ```
 
 #### Optimisation de la Performance
-1. **Utilisation de `collections.defaultdict`:**
+1. **Utilisation de `collections.defaultdict` :**
    - Pour les dictionnaires avec des valeurs par défaut.
    ```python
    from collections import defaultdict
    mon_dictionnaire = defaultdict(int)
    ```
 
-2. **Utilisation de `enumerate()` avec des Listes:**
+2. **Utilisation de `enumerate()` avec des Listes :**
    - Pour obtenir à la fois l'indice et la valeur lors de l'itération sur une liste.
    ```python
    for index, valeur in enumerate(ma_liste):
@@ -1221,7 +1205,7 @@ Explorez cet exercice pour pratiquer la manipulation de données dans une struct
 
 Adoptez ces conseils pour écrire un code plus lisible, efficace et éviter des pièges courants lors de la manipulation de listes et de dictionnaires en Python.
 
-*Astuce: La compréhension et l'efficacité du code sont cruciales, surtout avec des structures de données fréquemment utilisées.*
+*Astuce : La compréhension et l'efficacité du code sont cruciales, surtout avec des structures de données fréquemment utilisées.*
 
 ## Chapitre 6 : Fichiers et Gestion d'Erreurs
 
@@ -1310,7 +1294,7 @@ except TypeErreur2:
 
 Explorez ces concepts pour comprendre comment utiliser les blocs `try` et `except` pour gérer les erreurs en Python.
 
-*Astuce: Soyez précis dans la gestion des erreurs pour un débogage plus facile.*
+*Astuce : Soyez précis dans la gestion des erreurs pour un débogage plus facile.*
 
 ### 6.3 Le Bloc `finally` et l'Instruction `with`
 
@@ -1344,22 +1328,22 @@ with open('mon_fichier.txt', 'r') as fichier:
 
 Explorez ces concepts pour comprendre comment utiliser le bloc `finally` et l'instruction `with` en Python.
 
-*Astuce: Le bloc `finally` est utile pour des actions telles que la fermeture de fichiers ou la libération de ressources.*
+*Astuce : Le bloc `finally` est utile pour des actions telles que la fermeture de fichiers ou la libération de ressources.*
 ### 6.4 Exercices Pratiques sur les Fichiers et la Gestion d'Erreurs
 
-#### Exercice 1: Lecture de Fichier
+#### Exercice 1 : Lecture de Fichier
 1. Ouvrez le fichier "donnees.txt" en mode lecture.
 2. Lisez le contenu du fichier et affichez-le.
 
-#### Exercice 2: Écriture dans un Fichier
+#### Exercice 2 : Écriture dans un Fichier
 1. Créez un nouveau fichier "nouvelles_donnees.txt" en mode écriture.
 2. Écrivez quelques lignes de texte dans le fichier.
 
-#### Exercice 3: Gestion d'Erreurs
+#### Exercice 3 : Gestion d'Erreurs
 1. Utilisez un bloc `try` et `except` pour gérer une éventuelle erreur lors de la lecture du fichier "donnees_inexistantes.txt".
 2. Affichez un message d'erreur personnalisé en cas d'échec de la lecture.
 
-#### Exercice 4: Gestion des Ressources avec `with`
+#### Exercice 4 : Gestion des Ressources avec `with`
 1. Utilisez l'instruction `with` pour ouvrir le fichier "autres_donnees.txt" en mode lecture.
 2. Lisez le contenu du fichier et affichez-le.
 3. Assurez-vous que le fichier est automatiquement fermé même en cas d'erreur.
@@ -1371,11 +1355,11 @@ Explorez ces concepts pour comprendre comment utiliser le bloc `finally` et l'in
 
 Explorez ces exercices pour appliquer les concepts de fichiers et de gestion d'erreurs en Python.
 
-*Conseil: Décomposez chaque exercice en étapes plus petites pour les résoudre plus facilement.*
+*Conseil : Décomposez chaque exercice en étapes plus petites pour les résoudre plus facilement.*
 
 #### Exercice 1: Lecture de Fichier
 
-1. **Ouverture et Lecture:**
+1. **Ouverture et Lecture :**
    - Ouvrez le fichier "donnees.txt" en mode lecture.
    - Lisez le contenu du fichier et stockez-le dans une variable.
 
@@ -1388,7 +1372,7 @@ with open('donnees.txt', 'r') as fichier:
 print(contenu)
 ```
 
-2. **Affichage Lignes par Lignes:**
+2. **Affichage Lignes par Lignes :**
    - Modifiez le code pour afficher le contenu du fichier ligne par ligne.
 
 ```python
@@ -1404,7 +1388,7 @@ Explorez cet exercice pour pratiquer la lecture de fichiers en Python.
 *Astuce: Utilisez la déclaration `with` pour vous assurer que le fichier est correctement fermé après son utilisation.*
 #### Exercice 2: Écriture dans un Fichier
 
-1. **Création et Écriture:**
+1. **Création et Écriture :**
    - Créez un nouveau fichier "nouvelles_donnees.txt" en mode écriture.
    - Écrivez quelques lignes de texte dans le fichier.
 
@@ -1416,7 +1400,7 @@ with open('nouvelles_donnees.txt', 'w') as fichier:
     fichier.write("Ligne 3\n")
 ```
 
-2. **Affichage du Contenu Écrit:**
+2. **Affichage du Contenu Écrit :**
    - Ajoutez du code pour lire et afficher le contenu du nouveau fichier.
 
 ```python
@@ -1428,10 +1412,10 @@ with open('nouvelles_donnees.txt', 'r') as fichier:
 
 Explorez cet exercice pour pratiquer l'écriture dans un fichier en Python.
 
-*Astuce: Utilisez le mode "w" pour écrire dans un fichier, en créant un nouveau fichier ou en écrasant le contenu existant.*
+*Astuce : Utilisez le mode "w" pour écrire dans un fichier, en créant un nouveau fichier ou en écrasant le contenu existant.*
 #### Exercice 3: Gestion d'Erreurs
 
-1. **Gestion d'Erreurs avec `try` et `except`:**
+1. **Gestion d'Erreurs avec `try` et `except` :**
    - Utilisez un bloc `try` et `except` pour gérer une éventuelle erreur lors de la lecture du fichier "donnees_inexistantes.txt".
    - Affichez un message d'erreur personnalisé en cas d'échec de la lecture.
 
@@ -1454,7 +1438,7 @@ Explorez cet exercice pour pratiquer la gestion d'erreurs avec les blocs `try` e
 *Astuce: Utilisez des blocs `except` spécifiques pour différentes erreurs afin de fournir des messages d'erreur adaptés.*
 #### Exercice 4: Gestion des Ressources avec `with`
 
-1. **Utilisation de `with` pour la Gestion Contextuelle:**
+1. **Utilisation de `with` pour la Gestion Contextuelle :**
    - Utilisez l'instruction `with` pour ouvrir le fichier "autres_donnees.txt" en mode lecture.
    - Lisez le contenu du fichier et stockez-le dans une variable.
    - Assurez-vous que le fichier est automatiquement fermé même en cas d'erreur.
@@ -1473,12 +1457,12 @@ with open('autres_donnees.txt', 'r') as fichier_autre:
 
 Explorez cet exercice pour comprendre comment utiliser l'instruction `with` pour une gestion contextuelle des ressources en Python.
 
-*Astuce: L'instruction `with` est particulièrement utile pour éviter des fuites de ressources en assurant la fermeture automatique des fichiers.*
+*Astuce : L'instruction `with` est particulièrement utile pour éviter des fuites de ressources en assurant la fermeture automatique des fichiers.*
 
 ### 6.5 Conseils et Astuces pour les Fichiers et la Gestion d'Erreurs
 
 #### Bonnes Pratiques pour la Gestion de Fichiers
-1. **Utilisation de l'Instruction `with`:**
+1. **Utilisation de l'Instruction `with` :**
    - Privilégiez l'utilisation de l'instruction `with` pour la gestion contextuelle des fichiers.
    - Assurez-vous que le fichier est automatiquement fermé à la fin du bloc `with`.
 
@@ -1499,7 +1483,7 @@ if os.path.exists('mon_fichier.txt'):
 ```
 
 #### Gestion Robuste des Erreurs
-1. **Gestion Spécifique d'Erreurs:**
+1. **Gestion Spécifique d'Erreurs :**
    - Utilisez des blocs `try` et `except` avec des exceptions spécifiques pour une gestion plus précise des erreurs.
 
 ```python
@@ -1512,7 +1496,7 @@ except Exception as e:
     print(f"Une erreur s'est produite: {e}")
 ```
 
-2. **Messages d'Erreur Significatifs:**
+2. **Messages d'Erreur Significatifs :**
    - Fournissez des messages d'erreur significatifs pour faciliter le débogage.
 
 ```python
@@ -1526,13 +1510,13 @@ except Exception as e:
 
 Adoptez ces conseils pour assurer une gestion robuste des fichiers et des erreurs en Python.
 
-*Astuce: La clarté et la précision du code contribuent à un débogage efficace.*
+*Astuce : La clarté et la précision du code contribuent à un débogage efficace.*
 
 ## Chapitre 7 : Modules et Bibliothèques
 
 ### 7.1 Introduction aux Modules
 
-#### Qu'est-ce qu'un Module?
+#### Qu'est-ce qu'un Module ?
 - Un module est un fichier Python contenant des définitions et des instructions.
 - Il peut inclure des variables, fonctions, et classes qui peuvent être utilisées dans d'autres programmes Python.
 
@@ -1570,7 +1554,7 @@ resultat = m.sqrt(25)
 
 Explorez ces concepts pour comprendre comment utiliser et créer des modules en Python.
 
-*Astuce: Les modules simplifient la gestion du code en le divisant en unités logiques et réutilisables.*
+*Astuce : Les modules simplifient la gestion du code en le divisant en unités logiques et réutilisables.*
 
 ### 7.2 Bibliothèques Python Courantes
 
@@ -1626,7 +1610,7 @@ def saluer(nom):
 
 Explorez ces exemples pour comprendre comment utiliser des bibliothèques Python courantes.
 
-*Astuce: Les bibliothèques offrent des fonctionnalités étendues, évitant ainsi la réinvention de la roue.*
+*Astuce : Les bibliothèques offrent des fonctionnalités étendues, évitant ainsi la réinvention de la roue.*
 
 ### 7.3 Installation de Nouvelles Bibliothèques
 
@@ -1634,21 +1618,21 @@ Explorez ces exemples pour comprendre comment utiliser des bibliothèques Python
 - `pip` est l'outil standard pour installer des bibliothèques Python.
 
 #### Installation d'une Bibliothèque
-- Exécutez la commande suivante dans votre terminal ou invite de commande:
+- Exécutez la commande suivante dans votre terminal ou invite de commande :
 
 ```bash
 pip install nom_de_la_bibliotheque
 ```
 
 #### Exemple d'Installation
-- Installation de la bibliothèque `requests` pour effectuer des requêtes HTTP:
+- Installation de la bibliothèque `requests` pour effectuer des requêtes HTTP :
 
 ```bash
 pip install requests
 ```
 
 #### Gestion des Versions
-- Spécifiez une version particulière avec l'opérateur `==`:
+- Spécifiez une version particulière avec l'opérateur `==` :
 
 ```bash
 pip install requests==2.26.0
@@ -1658,27 +1642,27 @@ pip install requests==2.26.0
 - Utilisez des environnements virtuels pour isoler les dépendances entre projets.
 
 #### Exemple de Création d'Environnement Virtuel
-1. Installez `virtualenv` si ce n'est pas déjà fait:
+1. Installez `virtualenv` si ce n'est pas déjà fait :
 
 ```bash
 pip install virtualenv
 ```
 
-2. Créez un environnement virtuel:
+2. Créez un environnement virtuel :
 
 ```bash
 virtualenv venv
 ```
 
-3. Activez l'environnement virtuel:
+3. Activez l'environnement virtuel :
 
-   - Sur Windows:
+   - Sur Windows :
 
    ```bash
    .\venv\Scripts\activate
    ```
 
-   - Sur Linux/macOS:
+   - Sur Linux/macOS :
 
    ```bash
    source venv/bin/activate
@@ -1686,13 +1670,13 @@ virtualenv venv
 
 Explorez ces étapes pour installer de nouvelles bibliothèques et gérer les environnements virtuels en Python.
 
-*Astuce: L'utilisation d'environnements virtuels garantit la cohérence des dépendances entre différents projets.*
+*Astuce : L'utilisation d'environnements virtuels garantit la cohérence des dépendances entre différents projets.*
 
 ### 7.4 Création de Bibliothèques Personnalisées
 
 #### Création de Modules Personnalisés
 - Organisez votre code en créant des modules personnalisés.
-- Exemple avec un module `operations`:
+- Exemple avec un module `operations` :
 
 ```python
 # operations.py
@@ -1705,7 +1689,7 @@ def soustraction(a, b):
 
 #### Importation de Modules Personnalisés
 - Utilisez l'instruction `import` pour importer des modules personnalisés.
-- Exemple d'utilisation du module `operations`:
+- Exemple d'utilisation du module `operations` :
 
 ```python
 import operations
@@ -1715,7 +1699,7 @@ resultat_addition = operations.addition(5, 3)
 
 #### Création de Packages
 - Organisez vos modules en packages pour une structure hiérarchique.
-- Exemple de structure:
+- Exemple de structure :
 
 ```
 mon_projet/
@@ -1729,7 +1713,7 @@ mon_projet/
 
 #### Importation de Modules dans un Package
 - Utilisez l'instruction `import` pour importer des modules à partir d'un package.
-- Exemple d'utilisation avec un package `package`:
+- Exemple d'utilisation avec un package `package` :
 
 ```python
 from package import module3
@@ -1739,34 +1723,34 @@ resultat_module3 = module3.fonction_module3()
 
 Explorez ces concepts pour créer et organiser des bibliothèques personnalisées en Python.
 
-*Astuce: La création de bibliothèques personnalisées favorise la réutilisation du code et la gestion de projets plus importants.*
+*Astuce : La création de bibliothèques personnalisées favorise la réutilisation du code et la gestion de projets plus importants.*
 
 ### 7.5 Conseils et Astuces sur l'utilisation des Modules et Bibliothèques
 
 #### Organisation du Code
-1. **Modularité:**
+1. **Modularité :**
    - Divisez votre code en modules logiques pour une gestion plus aisée.
    - Organisez ces modules dans des packages pour des projets plus importants.
 
-2. **Nommage Cohérent:**
+2. **Nommage Cohérent :**
    - Adoptez des noms de modules et de packages cohérents avec la fonctionnalité qu'ils fournissent.
 
 #### Gestion des Dépendances
-1. **Environnements Virtuels:**
+1. **Environnements Virtuels :**
    - Utilisez des environnements virtuels pour isoler les dépendances entre projets.
 
-2. **Fichier `requirements.txt`:**
+2. **Fichier `requirements.txt` :**
    - Listez toutes les dépendances de votre projet dans un fichier `requirements.txt`.
 
 #### Importation Optimale
-1. **Importation Sélective:**
+1. **Importation Sélective :**
    - Importez uniquement les fonctions nécessaires plutôt que tout le module.
 
 ```python
 from module import fonction1, fonction2
 ```
 
-2. **Alias pour les Imports Longs:**
+2. **Alias pour les Imports Longs :**
    - Utilisez des alias pour les imports longs afin de raccourcir les références.
 
 ```python
@@ -1774,7 +1758,7 @@ import module_tres_long as mtl
 ```
 
 #### Documentation
-1. **Docstrings:**
+1. **Docstrings :**
    - Fournissez une documentation claire pour vos modules et fonctions en utilisant des docstrings.
 
 ```python
@@ -1792,15 +1776,15 @@ def ma_fonction(parametre):
 ```
 
 #### Mise à Jour Régulière
-1. **Mise à Jour des Bibliothèques:**
+1. **Mise à Jour des Bibliothèques :**
    - Assurez-vous de maintenir vos bibliothèques à jour en utilisant `pip install --upgrade`.
 
-2. **Vérification de la Documentation Officielle:**
+2. **Vérification de la Documentation Officielle :**
    - Consultez régulièrement la documentation officielle des bibliothèques pour de nouvelles fonctionnalités et mises à jour.
 
 Adoptez ces conseils pour une utilisation efficace des modules et bibliothèques en Python.
 
-*Astuce: La clarté, la modularité et la documentation sont essentielles pour faciliter la maintenance et la collaboration.*
+*Astuce : La clarté, la modularité et la documentation sont essentielles pour faciliter la maintenance et la collaboration.*
 
 ## Chapitre 8 : Projet Final
 
@@ -1808,65 +1792,65 @@ Adoptez ces conseils pour une utilisation efficace des modules et bibliothèques
 
 Le projet final vise à mettre en pratique l'ensemble des compétences acquises dans la formation à la programmation Python. L'objectif principal est de concevoir et de développer une application de gestion de tâches. Ce projet permettra de :
 
-1. **Récapituler les Concepts:**
+1. **Récapituler les Concepts :**
    - Appliquer les connaissances sur les variables, les fonctions, les structures de contrôle, les modules, et autres concepts essentiels.
 
-2. **Créer une Application Fonctionnelle:**
+2. **Créer une Application Fonctionnelle :**
    - Développer une application complète permettant l'ajout, la suppression, la modification et la liste des tâches.
 
-3. **Utiliser une Interface Graphique:**
+3. **Utiliser une Interface Graphique :**
    - Intégrer une interface utilisateur conviviale à l'aide d'une bibliothèque graphique telle que Tkinter.
 
-4. **Gérer les Données avec des Fichiers:**
+4. **Gérer les Données avec des Fichiers :**
    - Appliquer la gestion des fichiers pour stocker les données des tâches de manière persistante.
 
-5. **Planifier et Organiser le Code:**
+5. **Planifier et Organiser le Code :**
    - Structurer le code de manière claire et modulaire, en suivant les bonnes pratiques de programmation.
 
-6. **Tester Régulièrement le Code:**
+6. **Tester Régulièrement le Code :**
    - Effectuer des tests tout au long du développement pour assurer le bon fonctionnement de l'application.
 
 Le projet final offre une opportunité pratique de mettre en œuvre vos compétences de manière créative et de construire quelque chose de concret. Suivez les étapes du projet et n'hésitez pas à explorer des fonctionnalités avancées pour enrichir votre application.
 
-### 8.2 Idée du Projet: Application de Gestion de Tâches
+### 8.2 Idée du Projet : Application de Gestion de Tâches
 
 L'idée du projet consiste à créer une application de gestion de tâches simple mais fonctionnelle. L'application devrait permettre à l'utilisateur d'ajouter, de supprimer, de modifier et de lister des tâches. Pour rendre l'expérience utilisateur plus conviviale, l'application intégrera une interface graphique utilisant la bibliothèque Tkinter.
 
-#### Fonctionnalités de l'Application:
+#### Fonctionnalités de l'Application :
 
-1. **Ajout de Tâches:**
+1. **Ajout de Tâches :**
    - L'utilisateur peut ajouter de nouvelles tâches avec des descriptions.
 
-2. **Suppression de Tâches:**
+2. **Suppression de Tâches :**
    - Possibilité de supprimer des tâches existantes.
 
-3. **Modification de Tâches:**
+3. **Modification de Tâches :**
    - Permet à l'utilisateur de modifier la description ou l'état d'une tâche.
 
-4. **Liste des Tâches:**
+4. **Liste des Tâches :**
    - Affiche toutes les tâches avec leurs états actuels.
 
-5. **Interface Graphique Conviviale:**
+5. **Interface Graphique Conviviale :**
    - Utilisation de Tkinter pour créer une interface utilisateur interactive.
 
-6. **Gestion Persistante des Tâches:**
+6. **Gestion Persistante des Tâches :**
    - Les données des tâches sont stockées dans un fichier pour une gestion persistante.
 
-#### Étapes du Projet:
+#### Étapes du Projet :
 
-1. **Conception:**
+1. **Conception :**
    - Planifiez la structure de l'application, les fonctionnalités et l'interface.
 
-2. **Codage:**
+2. **Codage :**
    - Implémentez les fonctionnalités en utilisant les concepts appris.
 
-3. **Interface Graphique:**
+3. **Interface Graphique :**
    - Intégrez Tkinter pour créer une interface utilisateur attrayante.
 
-4. **Gestion des Fichiers:**
+4. **Gestion des Fichiers :**
    - Utilisez la gestion des fichiers pour stocker les données des tâches.
 
-5. **Tests:**
+5. **Tests :**
    - Effectuez des tests réguliers pour assurer le bon fonctionnement de l'application.
 
 Explorez cette idée de projet en ajoutant des fonctionnalités supplémentaires si vous le souhaitez. Le but est de créer une application pratique qui démontre votre compréhension des concepts Python.
@@ -1875,15 +1859,15 @@ Explorez cette idée de projet en ajoutant des fonctionnalités supplémentaires
 
 L'utilisation d'une interface graphique (GUI) améliorera l'expérience utilisateur de votre application de gestion de tâches. Tkinter est une bibliothèque Python standard qui facilite la création d'interfaces graphiques. Voici comment vous pouvez l'intégrer dans votre projet:
 
-#### Installation de Tkinter:
+#### Installation de Tkinter :
 
-Assurez-vous que Tkinter est installé. Il est inclus dans la plupart des distributions Python, mais vous pouvez le vérifier ou l'installer avec la commande suivante:
+Assurez-vous que Tkinter est installé. Il est inclus dans la plupart des distributions Python, mais vous pouvez le vérifier ou l'installer avec la commande suivante :
 
 ```bash
 pip install tk
 ```
 
-#### Exemple d'Utilisation de Tkinter:
+#### Exemple d'Utilisation de Tkinter :
 
 ```python
 import tkinter as tk
@@ -1906,23 +1890,23 @@ liste_taches.pack()
 fenetre.mainloop()
 ```
 
-#### Intégration avec les Fonctionnalités Existantes:
+#### Intégration avec les Fonctionnalités Existantes :
 
-1. **Associez les Boutons aux Fonctions:**
+1. **Associez les Boutons aux Fonctions :**
    - Associez les boutons de l'interface aux fonctions correspondantes (ajout, suppression, modification).
 
-2. **Mise à Jour Dynamique de la Liste:**
+2. **Mise à Jour Dynamique de la Liste :**
    - Mettez à jour dynamiquement la liste des tâches lorsque des modifications sont apportées.
 
-3. **Ajoutez des Entrées pour la Modification:**
+3. **Ajoutez des Entrées pour la Modification :**
    - Ajoutez des champs de saisie pour permettre à l'utilisateur de saisir les détails de la tâche.
 
-4. **Améliorez l'Apparence:**
+4. **Améliorez l'Apparence :**
    - Personnalisez l'apparence de l'interface pour la rendre attrayante et conviviale.
 
 Explorez la documentation de Tkinter pour découvrir les nombreux widgets disponibles et personnaliser davantage votre interface graphique.
 
-*Astuce: Pensez à utiliser des conteneurs Tkinter tels que `Frame` pour organiser vos widgets de manière structurée.*
+*Astuce : Pensez à utiliser des conteneurs Tkinter tels que `Frame` pour organiser vos widgets de manière structurée.*
 
 Pour associer les boutons de l'interface aux fonctions correspondantes, vous pouvez utiliser la méthode `command` des widgets bouton. Voici un exemple basique pour associer le bouton "Ajouter Tâche" à une fonction d'ajout de tâche dans votre application de gestion de tâches :
 
@@ -2164,7 +2148,7 @@ def mettre_a_jour_liste():
     pass
 ```
 
-#### Gestion des Données avec des Fichiers:
+#### Gestion des Données avec des Fichiers :
 ```python
 # Fonction de mise à jour de la liste avec sauvegarde dans un fichier
 def mettre_a_jour_liste():
@@ -2176,7 +2160,7 @@ def mettre_a_jour_liste():
             fichier.write(f"{tache}\n")
 ```
 
-#### Utilisation de Variables et Structures de Contrôle:
+#### Utilisation de Variables et Structures de Contrôle :
 ```python
 # Chargement initial des tâches depuis un fichier
 def charger_taches():
@@ -2198,27 +2182,27 @@ Ces exemples illustrent comment intégrer des concepts clés tels que les foncti
 
 ### Planification du Projet: Divisez le Projet en Étapes
 
-1. **Conception Initiale:**
+1. **Conception Initiale :**
    - Identifiez les fonctionnalités clés de l'application de gestion de tâches.
    - Esquissez l'interface utilisateur et la disposition générale.
 
-2. **Mise en Place de l'Environnement:**
+2. **Mise en Place de l'Environnement :**
    - Installez Python, PyCharm et Tkinter.
    - Configurez un environnement virtuel pour le projet.
 
-3. **Implémentation des Fonctionnalités de Base:**
+3. **Implémentation des Fonctionnalités de Base :**
    - Commencez par implémenter l'ajout, la suppression et la modification de tâches.
    - Intégrez une interface graphique simple avec Tkinter.
 
-4. **Gestion des Fichiers:**
+4. **Gestion des Fichiers :**
    - Ajoutez la capacité de sauvegarder et de charger les données depuis un fichier.
    - Testez la gestion persistante des données.
 
-5. **Amélioration de l'Interface Utilisateur:**
+5. **Amélioration de l'Interface Utilisateur :**
    - Personnalisez l'apparence de l'interface graphique.
    - Ajoutez des fonctionnalités pour rendre l'expérience utilisateur plus conviviale.
 
-6. **Fonctionnalités Avancées:**
+6. **Fonctionnalités Avancées :**
    - Explorez des fonctionnalités supplémentaires, telles que la priorité des tâches ou les catégories.
    - Intégrez des fonctionnalités avancées en fonction de votre vision pour l'application.
 
@@ -2226,15 +2210,15 @@ Ces exemples illustrent comment intégrer des concepts clés tels que les foncti
    - Effectuez des tests approfondis pour chaque fonctionnalité ajoutée.
    - Déboguez et corrigez les erreurs au fur et à mesure qu'elles apparaissent.
 
-8. **Documentation:**
+8. **Documentation :**
    - Rédigez des docstrings pour chaque fonction.
    - Ajoutez des commentaires explicatifs dans les parties complexes du code.
 
-9. **Optimisation:**
+9. **Optimisation :**
    - Identifiez les zones de code où des améliorations de performances peuvent être apportées.
    - Optimisez le code pour garantir une exécution efficace.
 
-10. **Finalisation du Projet:**
+10. **Finalisation du Projet :**
     - Ajoutez les touches finales à l'application.
     - Effectuez des tests complets pour vous assurer que toutes les fonctionnalités fonctionnent correctement.
 
@@ -2242,69 +2226,69 @@ Suivre ces étapes vous aidera à planifier et à réaliser votre projet de mani
 
 ### Planification des Fonctionnalités
 
-1. **Ajout de Tâches:**
+1. **Ajout de Tâches :**
    - Permettez à l'utilisateur d'ajouter de nouvelles tâches avec des descriptions.
 
-2. **Suppression de Tâches:**
+2. **Suppression de Tâches :**
    - Offrez la possibilité de supprimer des tâches existantes.
 
-3. **Modification de Tâches:**
+3. **Modification de Tâches :**
    - Permettez à l'utilisateur de modifier la description ou l'état d'une tâche.
 
-4. **Liste des Tâches:**
+4. **Liste des Tâches :**
    - Affichez toutes les tâches avec leurs états actuels.
 
-5. **Interface Utilisateur Conviviale:**
+5. **Interface Utilisateur Conviviale :**
    - Utilisez Tkinter pour créer une interface graphique interactive.
 
-6. **Gestion Persistante des Tâches:**
+6. **Gestion Persistante des Tâches :**
    - Stockez les données des tâches dans un fichier pour une gestion persistante.
 
-7. **Personnalisation de l'Apparence:**
+7. **Personnalisation de l'Apparence :**
    - Ajoutez des styles visuels pour améliorer l'esthétique de l'interface.
 
-8. **Priorité des Tâches (Fonctionnalité Avancée):**
+8. **Priorité des Tâches (Fonctionnalité Avancée) :**
    - Intégrez la possibilité de définir des priorités pour les tâches.
 
-9. **Catégorisation des Tâches (Fonctionnalité Avancée):**
+9. **Catégorisation des Tâches (Fonctionnalité Avancée) :**
    - Ajoutez la capacité de catégoriser les tâches par thème.
 
-10. **Recherche de Tâches (Fonctionnalité Avancée):**
+10. **Recherche de Tâches (Fonctionnalité Avancée) :**
     - Implémentez une fonction de recherche pour trouver rapidement des tâches spécifiques.
 
-11. **Sauvegarde Automatique (Fonctionnalité Avancée):**
+11. **Sauvegarde Automatique (Fonctionnalité Avancée) :**
     - Ajoutez une fonctionnalité de sauvegarde automatique pour éviter toute perte de données.
 
-12. **Statistiques sur les Tâches (Fonctionnalité Avancée):**
+12. **Statistiques sur les Tâches (Fonctionnalité Avancée) :**
     - Intégrez des statistiques pour suivre la progression des tâches.
 
 Adaptez ces fonctionnalités en fonction de la vision spécifique que vous avez pour votre application de gestion de tâches. Commencez par les fonctionnalités de base et évoluez vers les fonctionnalités avancées au fur et à mesure que le projet progresse.
 
-#### Code Propre et Modulaire:
+#### Code Propre et Modulaire :
 ### Nommez vos Variables Explicitement
 
-1. **Variables pour les Tâches:**
+1. **Variables pour les Tâches :**
    - Utilisez des noms comme `nouvelle_tache`, `tache_actuelle`, `description_tache` pour des variables liées aux tâches.
 
-2. **Variables pour l'Interface Utilisateur:**
+2. **Variables pour l'Interface Utilisateur :**
    - Choisissez des noms significatifs tels que `fenetre_principale`, `bouton_ajout`, `liste_taches` pour les éléments de l'interface utilisateur.
 
-3. **Variables pour les Fonctions:**
+3. **Variables pour les Fonctions :**
    - Nommez les variables des fonctions de manière explicite, par exemple, `ajouter_tache()`, `supprimer_tache()`, `mettre_a_jour_liste()`.
 
-4. **Variables pour les Fichiers:**
+4. **Variables pour les Fichiers :**
    - Si vous manipulez des fichiers, utilisez des noms comme `chemin_fichier`, `contenu_fichier`, pour rendre clair le but de la variable.
 
-5. **Variables liées à la GUI:**
+5. **Variables liées à la GUI :**
    - Optez pour des noms tels que `couleur_fond`, `style_police` pour les variables liées à l'apparence de l'interface.
 
-6. **Variables pour les Données Persistantes:**
+6. **Variables pour les Données Persistantes :**
    - Pour les données stockées, utilisez des noms comme `fichier_taches`, `donnees_taches` pour plus de clarté.
 
-7. **Variables avec Information de Priorité (Fonctionnalité Avancée):**
+7. **Variables avec Information de Priorité (Fonctionnalité Avancée) :**
    - Si vous implémentez la priorité, choisissez des noms tels que `priorite_tache` pour des variables liées à cet aspect.
 
-8. **Variables pour la Catégorisation (Fonctionnalité Avancée):**
+8. **Variables pour la Catégorisation (Fonctionnalité Avancée) :**
    - Si vous ajoutez la catégorisation, optez pour des noms comme `categorie_tache` pour des variables associées à cette fonctionnalité.
 
 Assurez-vous que vos noms de variables reflètent clairement leur rôle et contribuent à la lisibilité et à la compréhension globale de votre code.
@@ -2313,18 +2297,18 @@ Assurez-vous que vos noms de variables reflètent clairement leur rôle et contr
 
 La modularité est essentielle pour organiser et structurer votre code de manière à le rendre lisible, maintenable et évolutif. Voici comment vous pouvez appliquer des concepts de modularité à votre application de gestion de tâches en Python :
 
-1. **Divisez en Fonctions Modulaires:**
+1. **Divisez en Fonctions Modulaires :**
    - Identifiez des blocs de code logiquement regroupés et transformez-les en fonctions distinctes.
-   - Exemple:
+   - Exemple :
      ```python
      def ajouter_tache():
          # Logique pour ajouter une tâche
          pass
      ```
 
-2. **Utilisez des Classes (si approprié):**
+2. **Utilisez des Classes (si approprié) :**
    - Si votre application devient complexe, envisagez d'organiser votre code en classes.
-   - Exemple:
+   - Exemple :
      ```python
      class GestionnaireTaches:
          def __init__(self):
@@ -2336,9 +2320,9 @@ La modularité est essentielle pour organiser et structurer votre code de maniè
              pass
      ```
 
-3. **Séparez la Logique de l'Interface Utilisateur:**
+3. **Séparez la Logique de l'Interface Utilisateur :**
    - Isolez la logique métier de l'interface utilisateur pour améliorer la maintenabilité.
-   - Exemple:
+   - Exemple :
      ```python
      class InterfaceUtilisateur:
          def __init__(self, gestionnaire_taches):
@@ -2351,27 +2335,27 @@ La modularité est essentielle pour organiser et structurer votre code de maniè
              pass
      ```
 
-4. **Gestion des Fichiers dans une Fonction Séparée:**
+4. **Gestion des Fichiers dans une Fonction Séparée :**
    - Placez la logique liée à la gestion des fichiers dans des fonctions dédiées.
-   - Exemple:
+   - Exemple :
      ```python
      def sauvegarder_taches(fichier, donnees_taches):
          # Logique pour sauvegarder les tâches dans un fichier
          pass
      ```
 
-5. **Utilisez des Commentaires pour Marquer les Sections:**
+5. **Utilisez des Commentaires pour Marquer les Sections :**
    - Ajoutez des commentaires pour expliquer la fonction de chaque module de code.
-   - Exemple:
+   - Exemple :
      ```python
      # Module pour la gestion des tâches
      def ajouter_tache():
          pass
      ```
 
-6. **Encapsulez des Fonctionnalités Similaires:**
+6. **Encapsulez des Fonctionnalités Similaires :**
    - Regroupez des fonctionnalités similaires dans un même module pour faciliter la recherche.
-   - Exemple:
+   - Exemple :
      ```python
      # Module pour la gestion de l'interface utilisateur
      class InterfaceUtilisateur:
@@ -2380,50 +2364,50 @@ La modularité est essentielle pour organiser et structurer votre code de maniè
 
 En adoptant ces principes de modularité, vous rendrez votre code plus lisible, facile à maintenir et prêt à évoluer avec de nouvelles fonctionnalités.
 
-#### Tests Réguliers:
+#### Tests Réguliers :
 ### Effectuez des Tests au Fur et à Mesure
 
 L'intégration de tests tout au long du développement garantit un code plus fiable et facilite la détection précoce d'éventuelles erreurs. Voici comment effectuer des tests au fur et à mesure de l'implémentation de votre application de gestion de tâches en Python :
 
-1. **Tests Unitaires pour les Fonctions Critiques:**
+1. **Tests Unitaires pour les Fonctions Critiques :**
    - Écrivez des tests unitaires pour chaque fonction critique, en vérifiant les cas normaux et les cas limites.
-   - Exemple:
+   - Exemple :
      ```python
      def test_ajouter_tache():
          # Testez l'ajout d'une tâche
          assert ajouter_tache() == expected_result
      ```
 
-2. **Tests de l'Interface Utilisateur (GUI):**
+2. **Tests de l'Interface Utilisateur (GUI) :**
    - Testez l'interface utilisateur en simulant les interactions utilisateur et en vérifiant les résultats attendus.
-   - Exemple:
+   - Exemple :
      ```python
      def test_interface_utilisateur():
          # Testez les interactions utilisateur et les résultats de l'interface
          assert interface_utilisateur.ajouter_tache() == expected_result
      ```
 
-3. **Tests de la Gestion des Fichiers:**
+3. **Tests de la Gestion des Fichiers :**
    - Écrivez des tests pour la gestion des fichiers, en vérifiant la lecture, l'écriture et la persistance des données.
-   - Exemple:
+   - Exemple :
      ```python
      def test_sauvegarder_taches():
          # Testez la fonction de sauvegarde des tâches dans un fichier
          assert sauvegarder_taches(fichier, donnees_taches) == expected_result
      ```
 
-4. **Tests de Scénarios Combinés:**
+4. **Tests de Scénarios Combinés :**
    - Réalisez des tests de bout en bout en simulant des scénarios utilisateur complets.
-   - Exemple:
+   - Exemple :
      ```python
      def test_scenario_complet():
          # Testez un scénario utilisateur complet avec plusieurs actions
          assert scenario_complet() == expected_result
      ```
 
-5. **Tests Automatisés avec des Frameworks comme `unittest` ou `pytest`:**
+5. **Tests Automatisés avec des Frameworks comme `unittest` ou `pytest` :**
    - Utilisez des frameworks de test pour exécuter vos tests automatiquement lors du développement.
-   - Exemple:
+   - Exemple :
      ```python
      import unittest
 
@@ -2432,9 +2416,9 @@ L'intégration de tests tout au long du développement garantit un code plus fia
              self.assertEqual(ajouter_tache(), expected_result)
      ```
 
-6. **Révisez les Tests Après les Modifications:**
+6. **Révisez les Tests Après les Modifications :**
    - Chaque fois que vous apportez des modifications, assurez-vous que vos tests existants continuent de réussir.
-   - Exemple:
+   - Exemple :
      ```python
      def test_modification_interface():
          # Après une modification dans l'interface utilisateur, vérifiez que les tests réussissent toujours
@@ -2447,50 +2431,50 @@ L'adoption de cette approche garantit que votre application reste robuste au fur
 
 Les scénarios de test complets sont cruciaux pour s'assurer que toutes les parties de votre application fonctionnent correctement ensemble. Voici quelques scénarios de test complets pour votre application de gestion de tâches :
 
-1. **Ajout, Suppression et Modification de Tâches:**
+1. **Ajout, Suppression et Modification de Tâches :**
    - Ajoutez plusieurs tâches, puis supprimez-en une et modifiez-en une autre. Vérifiez que les changements sont correctement reflétés.
 
-2. **Gestion des Priorités (si applicable):**
+2. **Gestion des Priorités (si applicable) :**
    - Si vous avez une fonctionnalité de priorité, testez l'ajout de priorités différentes aux tâches et vérifiez si la liste est correctement triée.
 
-3. **Catégorisation des Tâches (si applicable):**
+3. **Catégorisation des Tâches (si applicable) :**
    - Si la catégorisation est une fonctionnalité, ajoutez des tâches à différentes catégories et assurez-vous qu'elles sont correctement regroupées.
 
-4. **Recherche de Tâches:**
+4. **Recherche de Tâches :**
    - Effectuez une recherche pour trouver une tâche spécifique en utilisant des mots-clés. Vérifiez que la tâche recherchée est correctement identifiée.
 
-5. **Tests avec Données Persistantes:**
+5. **Tests avec Données Persistantes :**
    - Ajoutez des tâches, fermez l'application, puis relancez-la. Vérifiez que les données persistent correctement et que la liste des tâches est restaurée.
 
-6. **Tests de l'Interface Utilisateur (GUI):**
+6. **Tests de l'Interface Utilisateur (GUI) :**
    - Effectuez des actions variées dans l'interface utilisateur, telles que l'ajout, la suppression et la modification de tâches, et vérifiez que l'interface réagit correctement.
 
-7. **Tests avec une Liste Importante de Tâches:**
+7. **Tests avec une Liste Importante de Tâches :**
    - Ajoutez un grand nombre de tâches pour évaluer les performances de l'application. Assurez-vous que l'application reste réactive.
 
-8. **Tests de Sauvegarde Automatique:**
+8. **Tests de Sauvegarde Automatique :**
    - Effectuez des actions sur les tâches et vérifiez que les modifications sont automatiquement sauvegardées à intervalles réguliers.
 
-9. **Tests avec Gestion d'Erreurs:**
+9. **Tests avec Gestion d'Erreurs :**
    - Introduisez délibérément des erreurs, comme la saisie incorrecte dans l'interface utilisateur, et assurez-vous que l'application gère correctement ces situations.
 
-10. **Tests de Compatibilité avec Différents Environnements:**
+10. **Tests de Compatibilité avec Différents Environnements :**
     - Exécutez l'application sur différents systèmes d'exploitation ou résolutions d'écran pour garantir une compatibilité étendue.
 
-11. **Tests de Performance avec une Interface Chargée:**
+11. **Tests de Performance avec une Interface Chargée :**
     - Si votre application prend en charge un grand nombre de tâches, testez les performances de l'interface utilisateur dans ces conditions.
 
-12. **Tests de Modification de Priorités et Catégories en Bloc (si applicable):**
+12. **Tests de Modification de Priorités et Catégories en Bloc (si applicable) :**
     - Si les fonctionnalités de modification en bloc sont présentes, testez-les pour vous assurer qu'elles fonctionnent correctement.
 
 Assurez-vous que ces scénarios de test couvrent un large éventail de situations pour garantir que votre application est robuste et offre une expérience utilisateur fluide.
 
-#### Documentation:
+#### Documentation :
 ### Docstrings pour les Fonctions
 
 L'utilisation de docstrings est cruciale pour documenter vos fonctions et aider les autres développeurs (ou vous-même à l'avenir) à comprendre leur fonctionnement. Voici comment vous pourriez rédiger des docstrings pour certaines de vos fonctions dans l'application de gestion de tâches :
 
-1. **Ajout de Tâches:**
+1. **Ajout de Tâches :**
    ```python
    def ajouter_tache(nouvelle_tache):
        """
@@ -2505,7 +2489,7 @@ L'utilisation de docstrings est cruciale pour documenter vos fonctions et aider 
        # Logique pour ajouter une tâche
    ```
 
-2. **Suppression de Tâches:**
+2. **Suppression de Tâches :**
    ```python
    def supprimer_tache(index):
        """
@@ -2520,7 +2504,7 @@ L'utilisation de docstrings est cruciale pour documenter vos fonctions et aider 
        # Logique pour supprimer une tâche
    ```
 
-3. **Modification de Tâches:**
+3. **Modification de Tâches :**
    ```python
    def modifier_tache(index, nouvelle_tache):
        """
@@ -2536,7 +2520,7 @@ L'utilisation de docstrings est cruciale pour documenter vos fonctions et aider 
        # Logique pour modifier une tâche
    ```
 
-4. **Liste des Tâches:**
+4. **Liste des Tâches :**
    ```python
    def afficher_liste_taches():
        """
@@ -2548,7 +2532,7 @@ L'utilisation de docstrings est cruciale pour documenter vos fonctions et aider 
        # Logique pour afficher la liste des tâches
    ```
 
-5. **Sauvegarde des Tâches dans un Fichier:**
+5. **Sauvegarde des Tâches dans un Fichier :**
    ```python
    def sauvegarder_taches(chemin_fichier, donnees_taches):
        """
@@ -2570,7 +2554,7 @@ Assurez-vous de personnaliser ces docstrings en fonction de la logique spécifiq
 
 L'ajout de commentaires pertinents dans votre code peut grandement améliorer sa compréhensibilité, surtout pour les parties complexes ou pour expliquer des choix de conception particuliers. Voici quelques exemples de commentaires pertinents que vous pourriez ajouter dans votre application de gestion de tâches en Python :
 
-1. **Commentaire sur une Partie Complexes du Code:**
+1. **Commentaire sur une Partie Complexes du Code :**
    ```python
    # Cette boucle parcourt toutes les tâches pour vérifier si elles contiennent la priorité spécifiée.
    for tache in liste_taches:
@@ -2579,7 +2563,7 @@ L'ajout de commentaires pertinents dans votre code peut grandement améliorer sa
            action_priorite_trouvee()
    ```
 
-2. **Commentaire Expliquant une Décision de Conception:**
+2. **Commentaire Expliquant une Décision de Conception :**
    ```python
    # J'ai choisi d'utiliser une liste de dictionnaires pour représenter les tâches car cela permet une structure flexible
    # avec des propriétés variées. Chaque dictionnaire représente une tâche avec ses attributs.
@@ -2589,76 +2573,76 @@ L'ajout de commentaires pertinents dans votre code peut grandement améliorer sa
    ]
    ```
 
-3. **Commentaire sur une Logique Spécifique:**
+3. **Commentaire sur une Logique Spécifique :**
    ```python
    # Si la priorité est supérieure à 3, utilisez une couleur d'alerte pour la mise en évidence.
    if priorite > 3:
        appliquer_style_alerte()
    ```
 
-4. **Commentaire pour Marquer une Section de Code:**
+4. **Commentaire pour Marquer une Section de Code :**
    ```python
    # === SECTION: Gestion de Fichiers ===
    # Dans cette section, nous traitons la lecture et l'écriture de données vers et depuis un fichier.
    ```
 
-5. **Commentaire Expliquant une Variable Délicate:**
+5. **Commentaire Expliquant une Variable Délicate :**
    ```python
    # La variable `donnees_brutes` contient les données non traitées provenant du fichier.
    donnees_brutes = lire_fichier(chemin_fichier)
    ```
 
-6. **Commentaire pour Indiquer une Amélioration Potentielle:**
+6. **Commentaire pour Indiquer une Amélioration Potentielle :**
    ```python
    # À améliorer: Cette partie du code pourrait bénéficier d'une optimisation pour gérer de grandes listes de tâches plus efficacement.
    ```
 
-7. **Commentaire pour Annoncer une Prochaine Étape:**
+7. **Commentaire pour Annoncer une Prochaine Étape :**
    ```python
    # Prochaine étape: Ajouter une fonction pour trier la liste des tâches par priorité.
    ```
 
 Assurez-vous que vos commentaires ajoutent de la valeur en expliquant des aspects non évidents du code ou en offrant des insights sur votre raisonnement. Cependant, évitez les commentaires évidents qui répètent simplement le code.
 
-#### Sécurité des Données:
+#### Sécurité des Données :
 ### Gestion Sécurisée des Données
 
 La gestion sécurisée des données est cruciale pour protéger l'intégrité et la confidentialité des informations stockées dans votre application. Voici quelques bonnes pratiques pour assurer une gestion sécurisée des données dans votre application de gestion de tâches en Python :
 
-1. **Utilisation de Connexions Sécurisées pour les Fichiers:**
+1. **Utilisation de Connexions Sécurisées pour les Fichiers :**
    - Lors de la lecture ou de l'écriture de fichiers, utilisez des chemins d'accès sécurisés et assurez-vous que votre application a les permissions appropriées.
 
-2. **Chiffrement des Données Sensibles:**
+2. **Chiffrement des Données Sensibles :**
    - Si vous stockez des informations sensibles, telles que des mots de passe, chiffrez-les avant de les stocker dans des fichiers ou des bases de données.
 
-3. **Validation des Entrées Utilisateurs:**
+3. **Validation des Entrées Utilisateurs :**
    - Assurez-vous de valider toutes les entrées utilisateur pour éviter les attaques par injection et garantir que seules des données valides sont traitées.
 
-4. **Éviter de Stocker des Informations Sensibles en Clair:**
+4. **Éviter de Stocker des Informations Sensibles en Clair :**
    - Évitez de stocker des informations sensibles telles que les mots de passe en clair. Utilisez des méthodes de hachage sécurisées pour stocker et vérifier les mots de passe.
 
-5. **Utilisation d'Environnements Virtuels:**
+5. **Utilisation d'Environnements Virtuels :**
    - Utilisez des environnements virtuels pour isoler les dépendances de votre application, ce qui minimise les risques liés aux dépendances non sécurisées.
 
-6. **Mises à Jour Régulières des Dépendances:**
+6. **Mises à Jour Régulières des Dépendances :**
    - Assurez-vous de mettre à jour régulièrement vos dépendances, y compris les bibliothèques tierces, pour bénéficier des correctifs de sécurité.
 
-7. **Contrôle d'Accès Approprié:**
+7. **Contrôle d'Accès Approprié :**
    - Appliquez un contrôle d'accès approprié aux fichiers et aux données pour garantir que seuls les utilisateurs autorisés peuvent y accéder.
 
-8. **Journalisation Sécurisée:**
+8. **Journalisation Sécurisée :**
    - Implémentez une journalisation appropriée pour enregistrer les activités importantes et les erreurs, tout en évitant de loguer des informations sensibles.
 
-9. **Protection Contre les Attaques par Force Brute:**
+9. **Protection Contre les Attaques par Force Brute :**
    - Mettez en place des mécanismes de protection contre les attaques par force brute, en limitant les tentatives d'accès et en verrouillant les comptes après un certain nombre d'échecs.
 
-10. **Tests de Sécurité Réguliers:**
+10. **Tests de Sécurité Réguliers :**
     - Effectuez des tests de sécurité réguliers, y compris des audits de code, pour identifier et corriger les éventuelles vulnérabilités.
 
-11. **Sécurisation de l'Interface Utilisateur:**
+11. **Sécurisation de l'Interface Utilisateur :**
     - Utilisez des pratiques sécurisées lors de la conception de l'interface utilisateur pour éviter les risques tels que l'injection de scripts.
 
-12. **Gestion des Sessions Sécurisée:**
+12. **Gestion des Sessions Sécurisée :**
     - Si votre application utilise des sessions utilisateur, assurez-vous de gérer les sessions de manière sécurisée, en utilisant des tokens de session sécurisés et en les expirant correctement.
 
 En adoptant ces bonnes pratiques, vous renforcez la sécurité de votre application et protégez les données de vos utilisateurs contre les menaces potentielles.
@@ -2666,9 +2650,9 @@ En adoptant ces bonnes pratiques, vous renforcez la sécurité de votre applicat
 
 La validation des entrées utilisateur est une étape essentielle pour garantir que votre application fonctionne de manière sûre et fiable. Voici quelques bonnes pratiques pour valider les entrées utilisateur dans votre application de gestion de tâches en Python :
 
-1. **Validation des Chaînes de Caractères:**
+1. **Validation des Chaînes de Caractères :**
    - Vérifiez la longueur des chaînes de caractères pour éviter les débordements.
-   - Exemple:
+   - Exemple :
      ```python
      def valider_description(description):
          if 1 <= len(description) <= 255:
@@ -2677,9 +2661,9 @@ La validation des entrées utilisateur est une étape essentielle pour garantir 
              return False
      ```
 
-2. **Validation des Nombres Entiers:**
+2. **Validation des Nombres Entiers :**
    - Assurez-vous que les nombres entiers sont dans la plage attendue.
-   - Exemple:
+   - Exemple :
      ```python
      def valider_priorite(priorite):
          if 1 <= priorite <= 5:
@@ -2688,9 +2672,9 @@ La validation des entrées utilisateur est une étape essentielle pour garantir 
              return False
      ```
 
-3. **Validation des Choix:**
+3. **Validation des Choix :**
    - Si l'utilisateur doit choisir parmi une liste prédéfinie, assurez-vous que la valeur est dans la liste.
-   - Exemple:
+   - Exemple :
      ```python
      CHOIX_ETAT = ["En cours", "Terminée", "En attente"]
 
@@ -2701,9 +2685,9 @@ La validation des entrées utilisateur est une étape essentielle pour garantir 
              return False
      ```
 
-4. **Validation des Dates:**
+4. **Validation des Dates :**
    - Si votre application utilise des dates, assurez-vous qu'elles sont au bon format et dans une plage logique.
-   - Exemple:
+   - Exemple :
      ```python
      from datetime import datetime
 
@@ -2715,9 +2699,9 @@ La validation des entrées utilisateur est une étape essentielle pour garantir 
              return False
      ```
 
-5. **Éviter l'Injection de Scripts (XSS):**
+5. **Éviter l'Injection de Scripts (XSS) :**
    - Échappez ou filtrez les caractères spéciaux pour éviter l'injection de scripts malveillants.
-   - Exemple:
+   - Exemple :
      ```python
      from html import escape
 
@@ -2725,9 +2709,9 @@ La validation des entrées utilisateur est une étape essentielle pour garantir 
          return escape(input_text)
      ```
 
-6. **Protection contre les Injections SQL:**
+6. **Protection contre les Injections SQL :**
    - Utilisez des requêtes préparées ou des ORM pour éviter les attaques par injection SQL.
-   - Exemple (avec SQLAlchemy):
+   - Exemple (avec SQLAlchemy) :
      ```python
      from sqlalchemy import create_engine, text
 
@@ -2739,26 +2723,26 @@ La validation des entrées utilisateur est une étape essentielle pour garantir 
              return result
      ```
 
-7. **Validation Côté Serveur:**
+7. **Validation Côté Serveur :**
    - Même si la validation côté client est importante, assurez-vous également de valider les entrées côté serveur pour une sécurité renforcée.
 
-8. **Gestion des Erreurs:**
+8. **Gestion des Erreurs :**
    - En cas de validation échouée, gérez les erreurs de manière appropriée et informez l'utilisateur des problèmes rencontrés.
 
 En incorporant ces pratiques, vous renforcez la sécurité et la fiabilité de votre application en garantissant que les données entrantes respectent les critères attendus.
 
-#### Expérimentez avec des Fonctionnalités Avancées:
+#### Expérimentez avec des Fonctionnalités Avancées :
 ### Ajout de Fonctionnalités Supplémentaires
 
 Pour enrichir votre application de gestion de tâches, vous pourriez envisager d'ajouter des fonctionnalités supplémentaires pour améliorer l'expérience utilisateur. Voici quelques idées que vous pourriez intégrer :
 
-1. **Date de Création des Tâches:**
+1. **Date de Création des Tâches :**
    - Ajoutez une fonction pour enregistrer la date de création de chaque tâche, offrant une perspective temporelle aux utilisateurs.
    - ### Ajout de la Date de Création des Tâches
 
 Pour intégrer la date de création des tâches dans votre application de gestion de tâches en Python, suivez ces étapes :
 
-1. **Mise à Jour du Modèle de Tâche:**
+1. **Mise à Jour du Modèle de Tâche :**
    - Ajoutez un champ supplémentaire pour enregistrer la date de création dans votre modèle de tâche. Assurez-vous que le modèle est adapté pour stocker des informations de date.
 
    Exemple (utilisant un dictionnaire pour représenter une tâche) :
@@ -2783,7 +2767,7 @@ Pour intégrer la date de création des tâches dans votre application de gestio
        liste_taches.append(nouvelle_tache)
    ```
 
-3. **Affichage de la Date dans l'Interface Utilisateur:**
+3. **Affichage de la Date dans l'Interface Utilisateur :**
    - Modifiez l'interface utilisateur pour afficher la date de création à côté de chaque tâche dans la vue détaillée.
 
    Exemple (utilisant un affichage texte) :
@@ -2803,12 +2787,12 @@ Pour intégrer la date de création des tâches dans votre application de gestio
        liste_taches[index] = nouvelle_tache
    ```
 
-5. **Gestion de l'Affichage dans le Mode Liste ou Carte:**
+5. **Gestion de l'Affichage dans le Mode Liste ou Carte :**
    - Assurez-vous que la date de création est bien intégrée dans l'affichage, que ce soit dans le mode liste ou carte, de manière à ce qu'elle soit facilement accessible.
 
 Avec ces ajustements, chaque tâche enregistrera automatiquement sa date de création, offrant aux utilisateurs une indication temporelle de quand elle a été ajoutée. Cette fonctionnalité peut être utile pour la gestion et la planification des tâches.
 
-2. **Filtrage et Tri des Tâches:**
+2. **Filtrage et Tri des Tâches :**
    - Implémentez des fonctionnalités de filtrage et de tri pour permettre aux utilisateurs de visualiser rapidement les tâches en fonction de leur état, de leur priorité, etc.
 ### Filtrage et Tri des Tâches
 
@@ -2874,7 +2858,7 @@ Pour améliorer l'expérience utilisateur, ajoutez des fonctionnalités de filtr
    ```
 
 Avec ces fonctionnalités, les utilisateurs peuvent personnaliser la vue de leurs tâches en fonction de leurs besoins spécifiques, améliorant ainsi la flexibilité de l'application.
-3. **Notifications et Rappels:**
+3. **Notifications et Rappels :**
    - Intégrez un système de notifications ou de rappels pour alerter les utilisateurs des tâches à venir ou des échéances imminentes.
 ### Notifications et Rappels
 
@@ -3573,7 +3557,7 @@ Intégrez une barre de recherche avancée dans votre application de gestion de t
    ```
 
 Avec cette barre de recherche avancée, les utilisateurs peuvent affiner leurs recherches en fonction de divers critères, ce qui améliore considérablement leur capacité à retrouver rapidement les informations nécessaires.
-12. **Gestion des Utilisateurs et Authentification:**
+12. **Gestion des Utilisateurs et Authentification :**
     - Ajoutez une gestion des utilisateurs avec des fonctionnalités d'authentification pour sécuriser l'accès aux données.
 ### Gestion des Utilisateurs et Authentification
 
