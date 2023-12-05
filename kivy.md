@@ -1,4 +1,4 @@
-Un sommaire de formation sur Kivy pourrait être structuré de manière à couvrir les concepts fondamentaux et les compétences nécessaires pour développer des applications avec ce framework. Voici un exemple de sommaire pour une formation sur Kivy :
+Formation Kivy
 
 ### Module 1 : Introduction à Kivy
 1.1 Présentation de Kivy
