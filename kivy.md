@@ -1,37 +1,28 @@
 # Formation Kivy
 
-### Module 1 : Introduction à Kivy
+### Introduction à Kivy
 - Présentation de Kivy
 - Installation de l'environnement de développement
-
-### Module 2 : Premiers pas avec Kivy
+### Premiers pas avec Kivy
 - Structure de base d'une application Kivy
 - Création de l'interface utilisateur (UI)
-
-### Module 3 : Gestion des événements
+### Gestion des événements
 - Événements de l'interface utilisateur
 - Gestion des événements tactiles
-
-### Module 4 : Animation et transitions
+### Animation et transitions
 - Introduction à l'animation dans Kivy
-
-### Module 5 : Gestion des données
+### Gestion des données
 - Utilisation de Kivy Properties
 - Intégration de bases de données
-
-### Module 6 : Déploiement d'une application Kivy
+### Déploiement d'une application Kivy
 - Packaging d'une application Kivy
 - Optimisation des performances
-
-### Module 7 : Projets pratiques
+### Projets pratiques
 - Développement d'une application simple
-
-### Module 8 : Bonnes pratiques et astuces
+### Bonnes pratiques et astuces
 - Bonnes pratiques de développement avec Kivy
 - Astuces avancées
-
 ----
-
 ## Présentation de Kivy
 
 ### Caractéristiques principales de Kivy
